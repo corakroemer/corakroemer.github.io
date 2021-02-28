@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Cora Krömer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Reading. Researching. Cycling. Photographying."
+  bio    : "Digital Humanist" #"Researching. Reading. Learning. Cycling. Photographying."
   location : "Germany"
   links:
     #- label: "Website"
