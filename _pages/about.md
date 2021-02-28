@@ -4,7 +4,7 @@ title: "About me"
 ---
 ## Education
 
-Dr Cora F. Krömer studied Romance Philology and European Art History (BA) at Heidelberg University (2012), French-German Studies: Crossboarder Communication and Communication (trinational MA) at Saarland University, University of Lorraine and Luxembourg University (2014). She holds a Ph.D in Romance Studies from Le Mans University and Saarland University (2020). For her thesis about reading at the digital age, she analysed online reviews about three fictional works from Babelio, a francophone network for readers. The methodology included a MySQL database, the text analysis software Iramuteq and manual annotation in order to detect and classify reading experiences. 
+Dr Cora F. Krömer studied Romance Philology and European Art History (BA) at Heidelberg University (2012), French-German Studies: Crossboarder Communication and Communication (trinational MA) at Saarland University, University of Lorraine and University of Luxembourg (2014). She holds a Ph.D in Romance Studies from Le Mans University and Saarland University (2020). For her thesis about reading at the digital age, she analysed online reviews about three fictional works from Babelio, a francophone network for readers. The methodology included a MySQL database, the text analysis software Iramuteq and manual annotation in order to detect and classify reading experiences. 
 
 ## Research
 
