@@ -10,7 +10,7 @@ Dr Cora F. Krömer studied Romance philology and European Art History (BA) at He
 
 Cora F. Krömer's research focus is on reading in the digital age, reading experiences, reading emotions. She is interested in developping her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
 
-## More Personal note
+## More personal note
 
 Cora loves reading, cycling, hiking, swimming, painting and sculpting.
 
