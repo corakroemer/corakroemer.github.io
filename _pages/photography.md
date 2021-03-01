@@ -10,9 +10,7 @@ galleryNorway:
     image-path: /assets/images/oslo_steg.jpg
 ---
 
-## Norge
-
-{% include gallery id="galleryNorway" %}
+{% include gallery id="galleryNorway" caption="Norge" %}
 
 <!--
 gallery:
