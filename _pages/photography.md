@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 permalink: /photography/
-gallery:
+galleryNorway:
   - url: /assets/images/fjord_haus.jpg
     image-path: /assets/images/fjord_haus.jpg
   - url: /assets/images/fjord_wasser.jpg
@@ -10,9 +10,9 @@ gallery:
     image-path: /assets/images/oslo_steg.jpg
 ---
 
-## Work in progress
+## Norge
 
-{% include gallery %}
+{% include gallery id="galleryNorway" %}
 
 <!--
 gallery:
