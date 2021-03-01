@@ -1,6 +1,10 @@
 ---
 permalink: /photography/
 title: "Photography"
+---
+# Work in progress
+
+<!--
 galleryNorway:
   - url: /assets/images/stavanger_flugzeug.jpg
     image_path: /assets/images/stavanger_flugzeug.jpg
@@ -26,12 +30,12 @@ galleryBretagne:
   - url: /assets/images/crozon_haengematte.jpg
     image_path: /assets/images/crozon_haengematte.jpg
 ---
+-->
 
+<!--
 ## Bretagne
-
 {% include galleryBretagne caption="Bretagne" %}
-
 ## Norge
-
 {% include galleryNorway caption="Norway" %}
+-->
 
