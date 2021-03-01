@@ -8,7 +8,12 @@ galleryNorway:
     image_path: "/assets/images/stavanger_inseln_1.jpg"
   - url: /assets/images/fjord_haus.jpg
     image_path: "/assets/images/fjord_haus.jpg"
-  - url: /assets/images/fjord_wasser.jpg
+---
+
+{% include galleryNorway caption="Norway" %}
+
+<!--
+- url: /assets/images/fjord_wasser.jpg
     image_path: "/assets/images/fjord_wasser.jpg"
   - url: /assets/images/oslo_figuren.jpg
     image_path: "/assets/images/oslo_figuren.jpg"
@@ -16,10 +21,7 @@ galleryNorway:
     image_path: "/assets/images/oslo_arc.jpg"
   - url: /assets/images/oslo_steg.jpg
     image_path: "/assets/images/oslo_steg.jpg"
-
----
-
-{% include galleryNorway caption="Norway" %}
+-->
 
 <!--galleryBretagne:
   - url: /assets/images/stmalo_mauer.jpg
