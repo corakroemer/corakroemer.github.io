@@ -1,18 +1,25 @@
 ---
 permalink: /photography/
 title: "Photography"
+galleryBretagne:
+  - url: /assets/images/stmalo_mauer.jpg
+    image_path: /assets/images/stmalo_mauer.jpg
+  - url: /assets/images/stmalo_wasser_bea.jpg
+    image_path: /assets/images/stmalo_wasser_bea.jpg
+  - url: /assets/images/crozon_klareswasser.jpg
+    image_path: /assets/images/crozon_klareswasser.jpg
+  - url: /assets/images/crozon_haengematte.jpg
+    image_path: /assets/images/crozon_haengematte.jpg
+---
+
+{% include galleryBretagne caption="Norway" %}
+
+<!--
 galleryNorway:
   - url: /assets/images/stavanger_flugzeug.jpg
     image_path: /assets/images/stavanger_flugzeug.jpg
   - url: /assets/images/stavanger_inseln_1.jpg
     image_path: /assets/images/stavanger_inseln_1.jpg
-  - url: /assets/images/fjord_haus.jpg
-    image_path: /assets/images/fjord_haus.jpg  
----
-
-{% include galleryNorway caption="Norway" %}
-
-<!--
   - url: /assets/images/fjord_haus.jpg
     image_path: "/assets/images/fjord_haus.jpg"
   - url: /assets/images/fjord_wasser.jpg
