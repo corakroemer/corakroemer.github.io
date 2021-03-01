@@ -6,6 +6,8 @@ galleryNorway:
     image_path: /assets/images/stavanger_flugzeug.jpg
   - url: /assets/images/stavanger_inseln_1.jpg
     image_path: /assets/images/stavanger_inseln_1.jpg
+  - url: /assets/images/fjord_haus.jpg
+    image_path: /assets/images/fjord_haus.jpg  
 ---
 
 {% include galleryNorway caption="Norway" %}
