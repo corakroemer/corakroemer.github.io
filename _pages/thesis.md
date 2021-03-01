@@ -1,6 +1,7 @@
-| *permalink* | *title*    |
-|-------------|------------|
-|/thesis/     | Ph.D thesis|
+---
+permalink: /thesis/
+title: "Ph.D thesis"
+---
 
 ## Work in progress
 
