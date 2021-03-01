@@ -4,14 +4,14 @@ title: "About me"
 ---
 ## Education
 
-Dr Cora F. Krömer studied Romance Philology and European Art History (BA) at Heidelberg University (2012), French-German Studies: Crossboarder Communication and Communication (trinational MA) at Saarland University, University of Lorraine and University of Luxembourg (2014). She holds a Ph.D in Romance Studies from Le Mans University and Saarland University (2020). For her thesis about reading at the digital age, she analysed online reviews about three fictional works from Babelio, a francophone network for readers. The methodology included a MySQL database, the text analysis software Iramuteq and manual annotation in order to detect and classify reading experiences. 
+Dr Cora F. Krömer studied Romance Philology and European Art History (BA) at Heidelberg University (2012), French-German Studies: Crossboarder Communication and Collaboration (trinational MA) at Saarland University, University of Lorraine and University of Luxembourg (2014). She holds a Ph.D in Romance Studies from Le Mans University and Saarland University (2020). For her thesis about reading at the digital age, she analysed online reviews about three fictional works from Babelio, a francophone network for readers. The methodology included a MySQL database, the text analysis software Iramuteq and manual annotation in order to detect and classify reading experiences. 
 
-## Research
+## Research interests
 
-Cora F. Krömer's research focus is on reading in the digital age, reading experiences, reading emotions. She is interested in developping her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
+Cora F. Krömer's research focus is on reading in the digital age, reading experiences and recently reading emotions. Her methodological focus is on quantitative methods of text analysis. In terms of material, she is focusing on social media posts, e.g. reviews from Babelio, Goodreads and LovelyBooks but also Twitter. She is also interested in new forms of scholarly publishing like Jupyter Notebooks. She pleads for Open Access/Open Science in the Humanities.
 
 ## More personal note
 
-Cora loves reading, cycling, hiking, swimming, painting and sculpting.
+Cora loves reading, cycling, hiking, swimming, painting and sculpting. She is also interested in developing her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
 
 <!-- Link to HAL, link to Orcid number, link to thesis, link to Zenodo, link to 3L.AM-->
