@@ -66,6 +66,9 @@ author:
   bio    : "French Literature. Digital Humanities. Cross-border cooperation" #"Researching. Reading. Learning. Cycling. Photographying."
   location : "Germany"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square" 
+      url: "mailto:cora.kroemer@gmail.com"
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
       #url: "https://"
