@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "About" #landing page
+    url: / 
   - title: "CV"
     url: /cv/
   - title: "Activities" 
