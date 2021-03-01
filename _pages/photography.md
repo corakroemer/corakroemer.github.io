@@ -12,7 +12,7 @@ gallery:
 
 ## Work in progress
 
-{% include gallery caption="Some examples" %}
+{% include gallery caption="Norway" %}
 
 <!-- How to make a photo grid?-->
 <!-- gallery : https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
