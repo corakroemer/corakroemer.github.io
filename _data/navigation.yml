@@ -3,16 +3,16 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Activities" 
-    url: /activities/
-  - title: "Ph.D thesis"
-    url: /thesis/
-  - title: "Data set"
-    url: /dataset/
-  - title: "Photography"
-    url: /photography/
+  #- title: "CV"
+    #url: /cv/
+  #- title: "Activities" 
+    #url: /activities/
+  #- title: "Ph.D thesis"
+    #url: /thesis/
+  #- title: "Data set"
+    #url: /dataset/
+  #- title: "Photography"
+    #url: /photography/
 
 #- title: "Posts"
     #url: /posts/
