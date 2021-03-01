@@ -1,3 +1,3 @@
 | *permalink* | *title*    |
 |-------------|------------|
-|/photograpy/ | Photography|
+|/photography/ | Photography|
