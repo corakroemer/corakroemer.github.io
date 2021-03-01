@@ -5,8 +5,8 @@ permalink: /
 header:
   overlay_image: /assets/images/splash_sea_IMG_4106.jpg
   caption: "Photo credit: **Cora F. Krömer**
+  
 ---
-<!-- {% include feature_row %}-->
 
 ## Education
 
