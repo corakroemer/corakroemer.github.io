@@ -18,7 +18,7 @@ galleryNorway:
   - image_path: "/assets/images/stavanger_oslo_steg.jpg"
 ---
 
-{% include galleryNorway caption="Norway" class="full" %}
+{% include galleryNorway caption="Norway" %}
 
 <!-- How to make a photo grid?-->
 <!-- gallery : https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
