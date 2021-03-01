@@ -16,7 +16,6 @@ galleryNorway:
     image_path: "/assets/images/oslo_arc.jpg"
   - url: /assets/images/oslo_steg.jpg
     image_path: "/assets/images/oslo_steg.jpg"
-
 galleryBretagne:
   - url: /assets/images/stmalo_mauer.jpg
     image_path: "/assets/images/stmalo_mauer.jpg"
