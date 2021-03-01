@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: / 
 title: "About me"
 ---
 ## Education
@@ -15,3 +15,7 @@ Cora F. Krömer's research focus is on reading in the digital age, reading exper
 Cora loves reading, cycling, hiking, swimming, painting and sculpting. She is also interested in developing her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
 
 <!-- Link to HAL, link to Orcid number, link to thesis, link to Zenodo, link to 3L.AM-->
+
+
+
+<!--permalink: /about/ if not landing page -->
