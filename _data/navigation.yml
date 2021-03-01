@@ -1,11 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+    #url: /posts/
  # - title: "Categories"
     #url: /categories/
   #- title: "Tags"
     #url: /tags/
-  - title: "Activities" 
-    url: /activities/
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
+    - title: "CV"
+    url: /cv/
+  - title: "Activities" 
+    url: /activities/
+  #- title: "Data set"
+    #url: /dataset/
+  #- title: "Photography"
+    #url: /photograpy/
