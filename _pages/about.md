@@ -2,7 +2,7 @@
 title: "About"
 permalink: / 
 header:
-  image: /assets/images/splash_oberstdorf_grat.jpg
+  image: /assets/images/splash_sea_IMG_4106.jpg
 ---
 
 ## Education
