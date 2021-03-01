@@ -19,6 +19,8 @@ Cora loves reading, cycling, hiking, swimming, painting and sculpting. She is al
 
 <!-- Link to HAL, link to Orcid number, link to thesis, link to Zenodo, link to 3L.AM-->
 
+<!--She takes interest in library science, research data management... -->
+
 
 
 <!--permalink: /about/ if not landing page -->
