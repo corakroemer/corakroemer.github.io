@@ -1,5 +1,6 @@
-|*permalink*  |*title*  |
-|-------------|---------|
-|/activities/ |Activities | 
+---
+permalink: /activities/
+title: "Activities"
+---
 
 ## Work in progress
