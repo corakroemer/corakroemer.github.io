@@ -16,7 +16,12 @@ galleryNorway:
     image_path: "/assets/images/oslo_arc.jpg"
   - url: /assets/images/oslo_steg.jpg
     image_path: "/assets/images/oslo_steg.jpg"
-galleryBretagne:
+
+---
+
+{% include galleryNorway caption="Norway" %}
+
+<!--galleryBretagne:
   - url: /assets/images/stmalo_mauer.jpg
     image_path: "/assets/images/stmalo_mauer.jpg"
   - url: /assets/images/stmalo_wasser_bea.jpg
@@ -25,11 +30,8 @@ galleryBretagne:
     image_path: "/assets/images/crozon_klareswasser.jpg"
   - url: /assets/images/crozon_haengematte.jpg
     image_path: "/assets/images/crozon_haengematte.jpg"
----
-
-{% include galleryNorway caption="Norway" %}
-
-{% include galleryBretagne caption="Bretagne" %}
+-->
+<!--{% include galleryBretagne caption="Bretagne" %}-->
 
 <!-- How to make a photo grid?-->
 <!-- gallery : https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
