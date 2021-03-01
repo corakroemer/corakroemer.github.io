@@ -15,5 +15,5 @@ main:
     url: /activities/
   #- title: "Data set"
     #url: /dataset/
-  #- title: "Photography"
-    #url: /photograpy/
+  - title: "Photography"
+    url: /photography/
