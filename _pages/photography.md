@@ -3,9 +3,9 @@ permalink: /photography/
 title: "Photography"
 galleryNorway:
   - url: /assets/images/stavanger_flugzeug.jpg
-    image_path: "/assets/images/stavanger_flugzeug.jpg"
+    image_path: /assets/images/stavanger_flugzeug.jpg
   - url: /assets/images/stavanger_inseln_1.jpg
-    image_path: "/assets/images/stavanger_inseln_1.jpg"
+    image_path: /assets/images/stavanger_inseln_1.jpg
 ---
 
 {% include galleryNorway caption="Norway" %}
