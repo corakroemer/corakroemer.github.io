@@ -81,6 +81,10 @@ author:
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0001-8473-1481"
+    - label: "HAL"
+      url: "https://hal.archives-ouvertes.fr/search/index/?qa[authIdHal_s][]=cora-kroemer"
 
 footer:
   links:
