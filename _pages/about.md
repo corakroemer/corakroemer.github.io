@@ -3,7 +3,6 @@ title: "About"
 permalink: / 
 header:
   image: /assets/images/splash_oberstdorf_grat.jpg
-  caption: "Photo credit: **Cora F. Krömer**"
 ---
 
 ## Education
