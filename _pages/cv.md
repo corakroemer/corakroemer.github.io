@@ -1,5 +1,6 @@
-|*permalink*  |*title*  |
-|-------------|---------|
-|/cv/         |CV       | 
+---
+permalink: /cv/
+title: "CV"
+---
 
 ## Work in progress
