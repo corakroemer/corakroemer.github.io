@@ -6,16 +6,16 @@ galleryNorway:
     image_path: "/assets/images/stavanger_flugzeug.jpg"
   - url: /assets/images/stavanger_inseln_1.jpg
     image_path: "/assets/images/stavanger_inseln_1.jpg"
-  - url: /assets/images/stavanger_fjord_haus.jpg
-    image_path: "/assets/images/stavanger_fjord_haus.jpg"
-  - url: /assets/images/stavanger_fjord_wasser.jpg
-    image_path: "/assets/images/stavanger_fjord_wasser.jpg"
-  - url: /assets/images/stavanger_fjord_oslo_figuren.jpg
-    image_path: "/assets/images/stavanger_oslo_figuren.jpg"
-  - url: /assets/images/stavanger_fjord_oslo_arc.jpg
-    image_path: "/assets/images/stavanger_oslo_arc.jpg"
-  - url: /assets/images/stavanger_fjord_oslo_steg.jpg
-    image_path: "/assets/images/stavanger_oslo_steg.jpg"
+  - url: /assets/images/fjord_haus.jpg
+    image_path: "/assets/images/fjord_haus.jpg"
+  - url: /assets/images/fjord_wasser.jpg
+    image_path: "/assets/images/fjord_wasser.jpg"
+  - url: /assets/images/oslo_figuren.jpg
+    image_path: "/assets/images/oslo_figuren.jpg"
+  - url: /assets/images/oslo_arc.jpg
+    image_path: "/assets/images/oslo_arc.jpg"
+  - url: /assets/images/oslo_steg.jpg
+    image_path: "/assets/images/oslo_steg.jpg"
 
 galleryBretagne:
   - url: /assets/images/stmalo_mauer.jpg
@@ -26,7 +26,6 @@ galleryBretagne:
     image_path: "/assets/images/crozon_klareswasser.jpg"
   - url: /assets/images/crozon_haengematte.jpg
     image_path: "/assets/images/crozon_haengematte.jpg"
-    
 ---
 
 {% include galleryNorway caption="Norway" %}
