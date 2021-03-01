@@ -8,7 +8,7 @@ galleryStavanger:
     image_path: /assets/images/fjord_haus.jpg
   - url: /assets/images/fjord_wasser.jpg
     image_path: /assets/images/fjord_wasser.jpg
- galleryOslo:   
+galleryOslo:   
   - url: /assets/images/oslo_figuren.jpg
     image_path: /assets/images/oslo_figuren.jpg
   - url: /assets/images/oslo_arc.jpg
