@@ -3,7 +3,7 @@ title: "About"
 layout: splash
 permalink: / 
 header:
-  overlay_image: /assets/images/splash_sea_IMG_4106.jpg
+  image: /assets/images/splash_sea_IMG_4106.jpg
   caption: "Photo credit: **Cora F. Krömer**
   
 ---
