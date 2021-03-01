@@ -19,11 +19,6 @@ Cora F. Krömer's research focus is on reading in the digital age, reading exper
 
 Cora loves reading, cycling, hiking, swimming, painting, sculpting and taking [photos](https://corakroemer.github.io/photography/). She is also interested in developing her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
 
-ORCID: [0000-0001-8474-1481](https://orcid.org/0000-0001-8473-1481)
-
-idHAL: [cora-kroemer](https://hal.archives-ouvertes.fr/search/index/?qa[authIdHal_s][]=cora-kroemer)
-
-<!-- link to thesis, link to Zenodo,-->
 
 <!--She takes interest in library science, research data management... -->
 
