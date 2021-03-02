@@ -5,7 +5,7 @@ title: "Ph.D thesis"
 
 ## Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne
 
-Please find the PDF of my thesis "Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne" with long summaries in English and French [here](LIEN).
+Please find the PDF of my thesis "Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne" with long summaries in English and German [here](LIEN).
 
 ### Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments
 
