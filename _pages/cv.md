@@ -50,7 +50,7 @@ classes: wide
 
 * Latin -- <font color="grey">Latinum</font>
 
-## <font color="#0092ca">IT skills</font></font>
+## <font color="#0092ca">IT skills</font>
 
 * MS-Office -- <font color="grey">Good knowledge</font>
 
