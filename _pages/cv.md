@@ -38,36 +38,37 @@ classes: wide
 
 * 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg.
 
-## <font color="#0092ca">Language skills</font>
+<!--
+## <font color="#0092ca">Language skills</font> -->
 
-* German -- <font color="grey">Mother tongue</font>
+<!--* German -- <font color="grey">Mother tongue</font> -->
 
-* French -- <font color="grey">Fluent in spoken and written</font>
+<!--* French -- <font color="grey">Fluent in spoken and written</font> -->
 
-* English -- <font color="grey">Good knowledge</font>
+<!--* English -- <font color="grey">Good knowledge</font> -->
 
-* Italian -- <font color="grey">Basic knowledge</font>
+<!--* Italian -- <font color="grey">Basic knowledge</font> -->
 
-* Latin -- <font color="grey">Latinum</font>
+<!--<!--* Latin -- <font color="grey">Latinum</font> -->
 
-## <font color="#0092ca">IT skills</font>
+<!--## <font color="#0092ca">IT skills</font> -->
 
-* MS-Office -- <font color="grey">Good knowledge</font>
+<!--* MS-Office -- <font color="grey">Good knowledge</font> -->
 
-* LibreOffice -- <font color="grey">Good knowledge</font>
+<!--* LibreOffice -- <font color="grey">Good knowledge</font> -->
 
-* LaTeX -- <font color="grey">Good knowledge</font>
+<!--* LaTeX -- <font color="grey">Good knowledge</font> -->
 
-* Markdown -- <font color="grey">Good knowledge</font>
+<!--* Markdown -- <font color="grey">Good knowledge</font> -->
 
-* XML/TEI -- <font color="grey">Basic knowledge</font>
+<!--* XML/TEI -- <font color="grey">Basic knowledge</font> -->
 
-* IRAMUTEQ -- <font color="grey">Good knowledge</font>
+<!--* IRAMUTEQ -- <font color="grey">Good knowledge</font> -->
 
-* AntConc -- <font color="grey">Good knowledge</font>
+<!--* AntConc -- <font color="grey">Good knowledge</font> -->
 
-* MySQL -- <font color="grey">Basic knowledge</font>
+<!--* MySQL -- <font color="grey">Basic knowledge</font> -->
 
-* Python -- <font color="grey">Basic knowledge</font>
+<!--* Python -- <font color="grey">Basic knowledge</font> -->
 
-* R -- <font color="grey">Basic knowledge</font>
+<!--* R -- <font color="grey">Basic knowledge</font> -->
