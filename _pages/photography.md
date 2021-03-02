@@ -1,6 +1,7 @@
 ---
 title: "Photography"
 permalink: /photography/
+classes: wide
 galleryStavanger:
   - url: /assets/images/stavanger_inseln_1.jpg
     image_path: /assets/images/stavanger_inseln_1.jpg  
