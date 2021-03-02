@@ -36,8 +36,8 @@ galleryAvignon:
     image_path: /assets/images/avignon_palais.jpg
   - url: /assets/images/avignon_teinturies.jpg
     image_path: /assets/images/avignon_teinturies.jpg
-  - url: /assets/images/avignon_gräber.jpg
-    image_path: /assets/images/avignon_gräber.jpg
+  - url: /assets/images/avignon_graeber.jpg
+    image_path: /assets/images/avignon_graeber.jpg
     
 galleryQuiberon:
   - url: /assets/images/quiberon_arc.jpg
@@ -77,7 +77,7 @@ galleryDivers:
   - url: /assets/images/blatt_eis_2.jpg
     image_path: /assets/images/blatt_eis_2.jpg
   - url: /assets/images/blatt_eis_1.jpg
-    image_path: /assets/blatt_eis_2.jpg
+    image_path: /assets/blatt_eis_1.jpg
     
 ---
 ## Norge
