@@ -62,7 +62,7 @@ galleryPfalz:
     image_path: /assets/images/pfalz_neuleinigen.jpg 
 galleryDivers:
   - url: /assets/images/blatt_eis_1.jpg
-    image_path: /assets/blatt_eis_1.jpg  
+    image_path: /assets/images/blatt_eis_1.jpg  
 ---
 ## Norge
 
