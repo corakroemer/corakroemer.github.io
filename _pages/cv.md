@@ -38,6 +38,22 @@ classes: wide
 
 * 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg.
 
+## <font color="#0092ca">Training through Digital Humanities-workshops</font>
+
+* Sentiment Analysis in Literary Studies, University of Graz, 17-19th February 2021.
+
+* Structurer un corpus textuel (TEI et linguistique informatique), Le Mans University, 14th Mai 2019.
+
+* Introduction aux méthodes quantitatives pour les lettres et langues, Le Mans University, Le Mans, 5th March 2019.
+
+* Introduction à l’édition numérique scientifique de correspondance, Le Mans University, 13th November 2018.
+
+* Gérer et explorer les données textuelles, Le Mans University, 12th April 2018.
+
+* TEI : de l’image au texte,  Le Mans University, 13th February 2018.
+
+* Édition électronique et TEI: enjeux, pratiques et perspectives, Le Mans University, 14th November 2017.
+
 <!--
 ## <font color="#0092ca">Language skills</font> -->
 
