@@ -10,6 +10,8 @@ classes: wide
 
 * 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University and Saarland University, Le Mans/Saarbrücken
 
+: Thesis : “Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne”
+
 * 2013-2014 -- **Master of Arts** in German Studies at University of Lorraine, Metz
 
 * 2012-2014 -- **Master of Arts** in French-German Studies: Cross-border Communication and Cooperation at Saarland University, University of Lorraine and University of Luxembourg
