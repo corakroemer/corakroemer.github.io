@@ -43,9 +43,9 @@ Mobilis, 2. Forum des Métiers du Livre et de la Lecture en Pays de la Loire, Un
 With Dr. François Vignale and Gautier Michelin.
 
 Workshop on the doctoral thesis and on studies in the humanities for students of the secondary school Suzanne Bouteloup-Mayet\
-Petits Débrouillards, Le Mans Université, Le Mans, February 2016.
+Petits Débrouillards, Le Mans Université, Le Mans, February 2016.\
 With Dr. Carole Wernert.
 
 Participatory science experiement *Récits et souvenirs de lecture*\
-Nuit Européenne des Chercheur.e.s 2015, Carré Plantagenêt, Musée d’Art et d’Histoire, Le Mans, September 2015.
+Nuit Européenne des Chercheur.e.s 2015, Carré Plantagenêt, Musée d’Art et d’Histoire, Le Mans, September 2015.\
 With Professor Brigitte Ouvry-Vial and Gautier Michelin.
