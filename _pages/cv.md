@@ -22,7 +22,7 @@ classes: wide
 
 ## <font color="#0092ca">Academic self-administration</font>
 
-* 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), Le Mans University, representative of the doctoral students.
+* 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), Le Mans University -- representative of the doctoral students
 
 ## <font color="#0092ca">Practical Experience</font>
 
