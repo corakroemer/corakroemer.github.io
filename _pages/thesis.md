@@ -1,6 +1,6 @@
 ---
 permalink: /thesis/
-title: "PhD thesis"
+title: "Ph.D thesis"
 classes: wide
 ---
 
@@ -11,7 +11,7 @@ Please find the PDF of my thesis “Crise de lecture : la lecture, une idée neu
 
 ### Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments
 
-(translation of the French title)
+(translation of the French thesis title)
 
 #### Abstract
 
