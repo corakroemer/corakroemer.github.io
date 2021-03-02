@@ -4,6 +4,9 @@ permalink: /
 header:
   image: /assets/images/splash_sea_IMG_4106.jpg
 ---
+<!-- <font color="#0092ca"> </font> -->
+
+<font color="#0092ca">*Currently searching for a position at the intersection Digital Humanities, research data management and the library*</font>
 
 ## Education
 
@@ -13,7 +16,7 @@ Are you interested to know more about my thesis? [Read this](https://corakroemer
 
 ## Research interests
 
-Cora F. Krömer's research focus is on reading in the digital age, reading experiences and recently reading emotions. Her methodological focus is on quantitative methods of text analysis. In terms of material, she is focusing on social media posts, e.g. reviews from Babelio, Goodreads and LovelyBooks but also Twitter. She is also interested in new forms of scholarly publishing like Jupyter Notebooks. She pleads for Open Access/Open Science in the Humanities.
+Cora F. Krömer's research focus is on reading in the digital age, reading experiences and recently reading emotions. Her methodological focus is on quantitative methods of text analysis. In terms of material, she is focusing on social media posts, e.g. reviews from Babelio, Goodreads and LovelyBooks but also Twitter. She is also interested in new forms of scholarly publishing like Jupyter Notebooks. Open Access/Open Science in the Humanities and research data management are very important topics to her.
 
 ## More personal note
 
