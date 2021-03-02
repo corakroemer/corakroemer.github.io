@@ -4,7 +4,9 @@ title: "CV"
 classes: wide
 ---
 
-## Education
+<!-- <font color="#0092ca"> </font> -->
+
+## <font color="#0092ca">Education</font>
 
 * 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University and Saarland University, Le Mans/Saarbrücken
 
