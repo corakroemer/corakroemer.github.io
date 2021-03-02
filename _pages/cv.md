@@ -40,7 +40,7 @@ classes: wide
 
 ## <font color="#0092ca">Training through Digital Humanities-workshops</font>
 
-* *Sentiment Analysis in Literary Studies*, University of Graz, 17-19th February 2021.
+* [*Sentiment Analysis in Literary Studies*](https://static.uni-graz.at/fileadmin/gewi-zentren/Informationsmodellierung/PDF/WS_Program_Sentiment.pdf), University of Graz (online), 17-19th February 2021.
 
 * *Structuring a textual corpus (TEI and computational linguistics)*, Le Mans University, 14th Mai 2019.
 
