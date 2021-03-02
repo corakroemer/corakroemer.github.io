@@ -54,7 +54,7 @@ classes: wide
 
 * *Introduction to scientific digital publishing of correspondence*, Le Mans University, 13th November 2018.
 
-* *Mamaging and exploring textual data*, Le Mans University, 12th April 2018.
+* *Managing and exploring textual data*, Le Mans University, 12th April 2018.
 
 * *TEI: from the image to the text*,  Le Mans University, 13th February 2018.
 
