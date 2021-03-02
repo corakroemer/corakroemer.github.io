@@ -34,7 +34,7 @@ IBG Young Scholars, Johannes Gutenberg-Universität Mainz, Mainz, November 2015.
 ## <font color="#0092ca">Science communication</font>
 
 *Lire son voisin : la réception de la littérature française en Allemagne*\
-27. Carrefour de la Pensée Allemagne, si proche, si peu connue, Palais des Congrès et de la Culture du Mans, Le Mans, March 2017.
+27th Carrefour de la Pensée Allemagne, si proche, si peu connue, Palais des Congrès et de la Culture du Mans, Le Mans, March 2017.
 
 Workshop on the doctoral topic and on studies in the humanities for participants at the age of 5-20\
 Exposcience, École supérieure du professorat et de l’éducation (ESPE), Le Mans Université, Le Mans, June 2016.
