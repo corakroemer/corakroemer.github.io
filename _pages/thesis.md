@@ -3,17 +3,19 @@ permalink: /thesis/
 title: "Ph.D thesis"
 ---
 
+## Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne
+
 Please find the PDF of my thesis "Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne" with long summaries in English and French [here](LIEN).
 
-## Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments
+### Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments
 
 (translation of the French title)
 
-### Abstract
+#### Abstract
 
 Digital technology is transforming the production, circulation and reception of written culture. These changes provide an opportunity to examine reading practices, whose decline is regularly deplored, and the pivotal moment in HSS--new objects, terrains and methods--that this examination confronts us with. Starting from the question, still unanswered–-*why and how do people read?*–-this thesis analyses ordinary reading experiences shared through reviews posted on the online reader community, Babelio. It tests the potentialities and limits of an *ad hoc* methodology, a mixed-methods approach deploying quali-quantitative and computer-assisted methods (database and text mining). The use of preliminary work on reading and literary exchanges, coming from various disciplines in the humanities, enables a deeper understanding of the new modalities associated with the phenomenon of *reading in the digital age*.  The confrontation of critical commentaries with theoretical notions on the act and effects of reading makes it possible to: underline the importance and taste for online sharing of readers as well as its commercial exploitation by social networks dedicated to this cultural activity; verify the experimental value of the concepts of cooperation between text and reader, of immersion, and of pleasures of reading on printed media. Thus, in the digital literary sphere, it is not necessarily reading itself that proves to be a new idea, but rather the possibility of sharing between peers within specific online communities.
 
-### Summary
+#### Summary
 
 The title of the thesis alludes to a question about the consequences of digital technology for reading. With increasing importance in our lives, the development of digital technology is seen by some as a revolution[^1] which feeds old concerns about a book crisis and a reading crisis: the printed book would be replaced by fragments of digital texts, the reading practice would decrease, the mode of attentive and critical reading would be replaced by superficial and fragmented reading, etc. This general concern, represented by the term “crisis” in the title, is not new (it dates back long before digital technology influenced our everyday lives) and takes many forms, including surveys, books, book chapters, scientific and journalistic articles and blog entries. The work is based on a questioning of the often defeatist discourses on the mutations of reading in the digital age.
 
