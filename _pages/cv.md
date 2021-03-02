@@ -40,34 +40,34 @@ classes: wide
 
 ## <font color="#0092ca">Language skills</font>
 
-* German -- Mother tongue
+* German -- <font color="grey">Mother tongue</font>
 
-* French -- Fluent in spoken and written
+* French -- <font color="grey">Fluent in spoken and written</font>
 
-* English -- Good knowledge
+* English -- <font color="grey">Good knowledge</font>
 
-* Italian -- Basic knowledge
+* Italian -- <font color="grey">Basic knowledge</font>
 
-* Latin -- Latinum
+* Latin -- <font color="grey">Latinum</font>
 
-## <font color="#0092ca">IT skills</font>
+## <font color="#0092ca">IT skills</font></font>
 
-* MS-Office -- Good knowledge
+* MS-Office -- <font color="grey">Good knowledge</font>
 
-* LibreOffice -- Good knowledge
+* LibreOffice -- <font color="grey">Good knowledge</font>
 
-* LaTeX -- Good knowledge
+* LaTeX -- <font color="grey">Good knowledge</font>
 
-* Markdown -- Good knowledge
+* Markdown -- <font color="grey">Good knowledge</font>
 
-* XML/TEI -- Basic knowledge
+* XML/TEI -- <font color="grey">Basic knowledge</font>
 
-* IRAMUTEQ -- Good knowledge
+* IRAMUTEQ -- <font color="grey">Good knowledge</font>
 
-* AntConc -- Good knowledge
+* AntConc -- <font color="grey">Good knowledge</font>
 
-* MySQL -- Basic knowledge
+* MySQL -- <font color="grey">Basic knowledge</font>
 
-* Python -- Basic knowledge
+* Python -- <font color="grey">Basic knowledge</font>
 
-* R -- Basic knowledge
+* R -- <font color="grey">Basic knowledge</font>
