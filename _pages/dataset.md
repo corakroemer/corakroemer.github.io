@@ -4,9 +4,9 @@ title: "Data set"
 classes: wide
 ---
 
-## Dataset with Babelio book reviews
+## Data set with Babelio book reviews
 
-The Data set is related to the PhD thesis “Crise de lecture : la lecture une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne” (in English: “Reading crisis: reading, a new idea in the digital age? The case of fiction works and their online comments”).
+The data set is related to the PhD thesis “Crise de lecture : la lecture une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne” (in English: “Reading crisis: reading, a new idea in the digital age? The case of fiction works and their online comments”).
 
 The object of research is the exploration of a sample of literary reviews from the platform of a French-speaking network for readers, Babelio. The explored reviews are about *Les hommes qui n’aimaient pas les femmes* (Stieg Larsson, 2006), *Fun Home : une tragicomédie familiale* (Alison Bechdel, 2006) and *Soumission* (Michel Houellebecq, 2015).
 
