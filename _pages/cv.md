@@ -20,11 +20,11 @@ classes: wide
 
 * 2007 -- General qualification for university entrance (**Abitur**) at Freie Waldorfschule Frankenthal
 
-## Academic self-administration
+## <font color="#0092ca">Academic self-administration</font>
 
 * 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), *Le Mans University*, Le Mans, representative of the doctoral students.
 
-## Practical Experience
+## <font color="#0092ca">Practical Experience</font>
 
 * 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université, Le Mans.
 
@@ -38,7 +38,7 @@ classes: wide
 
 * 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg.
 
-## Language skills
+## <font color="#0092ca">Language skills</font>
 
 * German -- Mother tongue
 
@@ -50,7 +50,7 @@ classes: wide
 
 * Latin -- Latinum
 
-## IT skills
+## <font color="#0092ca">IT skills</font>
 
 * MS-Office -- Good knowledge
 
