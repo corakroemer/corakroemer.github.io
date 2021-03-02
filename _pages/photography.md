@@ -39,7 +39,7 @@ galleryQuiberon:
 galleryLeMans:
   - url: /assets/images/lemans_golf.jpg
     image_path: /assets/images/lemans_golf.jpg
- - url: /assets/images/lemans_montfort-le-gesnois.jpg
+  - url: /assets/images/lemans_montfort-le-gesnois.jpg
     image_path: /assets/images/lemans_montfort-le-gesnois.jpg
 galleryImst:
   - url: /assets/images/imst_nebel.jpg
