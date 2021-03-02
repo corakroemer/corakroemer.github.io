@@ -9,7 +9,7 @@ title: "CV"
 
 * 2013-2014 -- **Master of Arts** in German Studies at University of Lorraine, Metz
 
-* 2012-1ß14 -- **Master of Arts** in French-German Studies: Cross-border Communication and Cooperation at Saarland University, University of Lorraine and University of Luxembourg
+* 2012-2014 -- **Master of Arts** in French-German Studies: Cross-border Communication and Cooperation at Saarland University, University of Lorraine and University of Luxembourg
 
 * 2007-2012 -- **Bachelor of Arts** in Romance Studies (French) and European Art History at Heidelberg University
 
