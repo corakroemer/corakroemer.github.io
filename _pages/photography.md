@@ -35,7 +35,7 @@ galleryAvignon:
   - url: /assets/images/avignon_palais.jpg
     image_path: /assets/images/avignon_palais.jpg
   - url: /assets/images/avignon_teinturies.jpg
-    image_path: /assets/images/avignon_palais.jpg
+    image_path: /assets/images/avignon_teinturies.jpg
   - url: /assets/images/avignon_gräber.jpg
     image_path: /assets/images/avignon_gräber.jpg
     
@@ -57,7 +57,7 @@ galleryImst:
   - url: /assets/images/imst_see_2.jpg
     image_path: /assets/images/imst_see_2.jpg
 
-galleryObersdorf:
+galleryOberstdorf:
   - url: /assets/images/oberstdorf_gipfelsee.jpg
     image_path: /assets/images/oberstdorf_gipfelsee.jpg
   - url: /assets/images/oberstdorf_schlucht_1.jpg
