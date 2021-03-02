@@ -1,12 +1,13 @@
 ---
 permalink: /activities/
 title: "Activities"
+classes: wide
 ---
 <!-- <font color="#0092ca"> </font> -->
 
 ## <font color="#0092ca">Publications</font>
 
-Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: Introduction : Reading & Gaming. In *Publije* [online], No 1, Juli 2019. [pdf](http://revues.univ- lemans.fr/index.php/publije/issue/view/16).
+Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: Introduction : Reading & Gaming. In *Publije* [online], No 1, Juli 2019. [[pdf]](http://revues.univ- lemans.fr/index.php/publije/issue/view/16).
 
 ## <font color="#0092ca">Talks</font>
 
