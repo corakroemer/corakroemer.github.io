@@ -22,19 +22,19 @@ classes: wide
 
 ## <font color="#0092ca">Academic self-administration</font>
 
-* 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), *Le Mans University*, Le Mans, representative of the doctoral students.
+* 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), Le Mans University, representative of the doctoral students.
 
 ## <font color="#0092ca">Practical Experience</font>
 
-* 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université, Le Mans.
+* 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
 
-* 09/2013 -- Stand manager at the fair *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken.
+* 09/2013 -- Stand manager at the fair *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
 
-* 05-06/2013 -- Internship, regional advisory office Saarland-Moselle-Lorraine-West Palatinate (GIP INTERREG) of the EU-program INTERREG IV-A Greater region, Metz.
+* 05-06/2013 -- Internship, regional advisory office Saarland-Moselle-Lorraine-West Palatinate (GIP INTERREG) of the EU-program INTERREG IV-A Greater region, Metz
 
-* 02-04/2012 -- Internship in the culture and language department, Deutsch-französisches Institut, Erlangen.
+* 02-04/2012 -- Internship in the culture and language department, Deutsch-französisches Institut, Erlangen
 
-* 05/2011 -- Cultural ambassador, Book Fair *Comédie du Livre*, City Hall Montpellier, Montpellier.
+* 05/2011 -- Cultural ambassador, Book Fair *Comédie du Livre*, City Hall Montpellier, Montpellier
 
 * 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg.
 
