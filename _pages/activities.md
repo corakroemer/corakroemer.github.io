@@ -40,7 +40,7 @@ Workshop on the doctoral topic and on studies in the humanities for participants
 Exposcience, École supérieure du professorat et de l’éducation (ESPE), Le Mans Université, Le Mans, June 2016.
 
 Participatory science experiement *Récits et souvenirs de lecture*\ 
-Mobilis, 2. Forum des Métiers du Livre et de la Lecture en Pays de la Loire, Université de Nantes, site de la Courtaisière, La Roche-sur-Yon, March 2016\
+Mobilis, 2e Forum des Métiers du Livre et de la Lecture en Pays de la Loire, Université de Nantes, site de la Courtaisière, La Roche-sur-Yon, March 2016\
 With Dr. François Vignale and Gautier Michelin.
 
 Workshop on the doctoral thesis and on studies in the humanities for students of the secondary school Suzanne Bouteloup-Mayet\
