@@ -57,7 +57,7 @@ galleryImst:
   - url: /assets/images/imst_see_2.jpg
     image_path: /assets/images/imst_see_2.jpg
 
-galleryObersdort:
+galleryObersdorf:
   - url: /assets/images/oberstdorf_gipfelsee.jpg
     image_path: /assets/images/oberstdorf_gipfelsee.jpg
   - url: /assets/images/oberstdorf_schlucht_1.jpg
