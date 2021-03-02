@@ -3,9 +3,11 @@ permalink: /thesis/
 title: "Ph.D thesis"
 ---
 
-Please find the PDF of my thesis "Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne" [here](LIEN).
+Please find the PDF of my thesis "Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne" with long summaries in English and French [here](LIEN)
 
 ## Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments
+
+(translation of the French title)
 
 ### Abstract
 
@@ -34,3 +36,31 @@ The thesis pursues two objectives: On the one hand, it is about online comments 
 Methodologically, a decisive moment is experienced: on the one hand, computer-assisted methods have not yet found their proper place in the humanities; on the other hand, there is a paradigm shift in the humanities. Digital technology is questioning their epistemology, calling them into question as “disciplines”, transforming the conditions of knowledge production and circulation. Digital technology becomes a tool, a method, a field and an object of research. The thesis considers all the transformations that digital technology brings to literary studies: Its method consists in the use of digital tools; its field of research is the online reading community Babelio; it examines the reviews and their metadata as a research object; finally, the research data[^6] are made openly accessible on the internet.
 
 [^6]: Cora Krömer, “Expériences de lecture – Babelio (Version 1.0.0) [Data set]”, in: *Zenodo* [online], Oct. 2020, DOI: [10.5281/zenodo.4066684](http://doi.org/10.5281/zenodo.4066684).
+
+The thesis is divided into four parts:
+
+1. A selective overview of the state of research in several disciplines--literary studies, sociology, information and communication sciences--on both reading and literary exchange on the Internet. This also serves the methodological and hermeneutical positioning of the thesis.
+
+2. A brief introduction to the fiction books that served as a starting point for the review selection, the explanation of various aspects of literary exchange on the Internet--content production by amateurs, critical authority on the Internet, literary sociability--which finally leads to a classification of Babelio among the diversity of places of literary exchange on the Internet.
+
+3. A documentation of the collection and processing of the online reviews in a database, its use, and the preparation of the texts for statistical text analysis with Iramuteq and finally, an explanation about the creation of an annotated list that compiles and classifies terms evoking reading experiences.
+
+4. The analysis and interpretation by four approaches: a statistical analysis of the metadata on the reviews; a search for different keywords to show the content diversity of the reviews; three forms of analysis provided by Iramuteq--list of active forms, word cloud and top-down classification--to capture the thematic content of the reviews and, based on these, two case studies on the mention of the authors and characters in the reviews; an analysis of the annotated list of terms to demonstrate the diversity of shared reading experiences: readers’s subject (*sujet lecteur*), the mention of different premises (*prémisse*), information about reading media (*médium*), and reading session (*session*), possibilities presenting content (*contenu*), as well as elements of reader-response (*réception*), such as cooperation between text and reader (*coopération*) and immersion (*immersion*), and finally reading effects (*effet*), such as judgements (*avis*), reading pleasure (*plaisir*), emotions (*émotion*) and subjective and objective impacts (*impact subjectif/objectif*) of reading.
+
+The appendices contain some reviews and their comments when their totality is relevant in the dissertation, some explanations and analysis results of the top-down classification to avoid too many technical details in the main text, as well as the list of terms classified by notions. In addition, the appendices contain detailed summaries in German and English.
+
+The most important results of this thesis consist primarily of its methodological contributions: The importance of an approach that combines knowledge from different disciplines in order to take into account a phenomenon as complex as reading and online comments is emphasised; a qualitative methodology including computer-assisted methods is used to demonstrate the relevance of their use in the study of literary criticism in search of reading experiences; the selected reviews and the annotated list of terms are made available for reproductibility and for further analysis for the purpose of *Open Science*. Its hermeneutical contributions consist in a selective survey of knowledge about reading and literary exchange; in the confrontation of terms and concepts from reading theories (Hans Robert Jauss,[^7] Wolfgang Iser,[^8] Umberto Eco,[^9] Michel Picard,[^10] Vincent Jouve,[^11] Jean-Louis Dufays[^12]) with *new empirical* sources, such as the comments of non-professional readers, in order to validate the continued relevance of the various terms and the research interest to continue their empirical investigation; in the critical examination of literary sociability, which in the case of Babelio follows primarily a commercial interest, comparable to that of generalist platforms such as Facebook, Instagram, YouTube and Twitter; in the relativization of the--often defeatist--discourses on the mutation and decline of reading in the digital age.
+
+[^7]: Hans Robert Jauss, *Ästhetische Erfahrung und literarische Hermeneutik*, Munich: Wilhelm Fink, 1977.
+
+[^8]: Wolfgang Iser, *Der Akt des Lesens: Theorie ästhetischer Wirkung*, UTB 636, Munich: Fink, 1976.
+
+[^9]: Umberto Eco, *Lector in fabula: la cooperazione interpretativa nei testi narrativi*, Milan: V. Bompiani, 1979.
+
+[^10]: Michel Picard, *La lecture comme jeu : essai sur la littérature*, Paris: Éditions de Minuit, 1986.
+
+[^11]: Vincent Jouve, *L’effet-personnage dans le roman*, Paris: Presses Universitaires de France, 1992.
+
+[^12]: ean-Louis Dufays, *Stéréotype et lecture : essai sur la réception littéraire*, Liège: Mardaga, 1994.
+
+**Keywords**: Reading, Reader-response, Literary criticism, Social networks for readers, Digital Humanities, Data exploration, Text mining, Annotation
