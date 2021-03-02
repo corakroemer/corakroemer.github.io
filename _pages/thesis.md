@@ -1,6 +1,7 @@
 ---
 permalink: /thesis/
 title: "Ph.D thesis"
+classes: wide
 ---
 
 
