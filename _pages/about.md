@@ -7,7 +7,7 @@ header:
 ---
 <!-- <font color="#0092ca"> </font> -->
 
-<font color="#0092ca">*Currently searching for a position at the intersection Digital Humanities, research data management and the library*</font>
+*<font color="#0092ca">Currently searching for a position at the intersection Digital Humanities, research data management and the library</font>*
 
 ## Education
 
