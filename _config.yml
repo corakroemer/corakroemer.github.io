@@ -25,6 +25,8 @@ github_username: corakroemer
 minimal_mistakes_skin: air #default
 #search: true
 
+og_image: /assets/images/site-logo.jpg
+
 encoding: "utf-8" #added from default mmistakes theme 
 
 # Build settings
