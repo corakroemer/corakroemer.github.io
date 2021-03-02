@@ -58,13 +58,9 @@ galleryOberstdorf:
 galleryPfalz:
   - url: /assets/images/pfalz_aussicht_grotte.jpg
     image_path: /assets/images/pfalz_aussicht_grotte.jpg
-  - url: /assets/images/pfalz_baum.jpg
-    image_path: /assets/images/pfalz_baum.jpg
   - url: /assets/images/pfalz_neuleinigen.jpg
     image_path: /assets/images/pfalz_neuleinigen.jpg 
 galleryDivers:
-  - url: /assets/images/blatt_eis_2.jpg
-    image_path: /assets/images/blatt_eis_2.jpg
   - url: /assets/images/blatt_eis_1.jpg
     image_path: /assets/blatt_eis_1.jpg  
 ---
