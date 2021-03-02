@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Cora F. Krömer
 email: cora.kroemer@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Cora Krömer’s personal homepage. CV, research interests, photography.
 #twitter_username: username
 github_username: corakroemer
@@ -55,8 +55,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
-  # - jemoji
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 author:
