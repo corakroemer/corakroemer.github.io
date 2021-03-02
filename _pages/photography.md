@@ -29,8 +29,8 @@ galleryCrozon:
 galleryAvignon:
   - url: /assets/images/avignon_palais.jpg
     image_path: /assets/images/avignon_palais.jpg
-  - url: /assets/images/avignon_teinturies.jpg
-    image_path: /assets/images/avignon_teinturies.jpg
+  - url: /assets/images/avignon_teinturiers.jpg
+    image_path: /assets/images/avignon_teinturiers.jpg
   - url: /assets/images/avignon_graeber.jpg
     image_path: /assets/images/avignon_graeber.jpg
 galleryQuiberon:
