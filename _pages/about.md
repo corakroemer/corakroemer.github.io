@@ -20,7 +20,7 @@ Are you interested to know more about my thesis? [Read this](https://corakroemer
 
 Cora F. Krömer's research focus is on reading in the digital age, reading experiences and recently reading emotions. Her methodological focus is on quantitative methods of text analysis. In terms of material, she is focusing on social media posts, e.g. reviews from Babelio, Goodreads and LovelyBooks but also Twitter. She is also interested in new forms of scholarly publishing like Jupyter Notebooks. Open Access/Open Science in the Humanities and research data management are very important topics to her. She is currently developing her IT and coding skills, mostly in Python and R for data/text analysis and visualisation.
 
-**Keywords** : reading studies, literature, computational literary studies, text analysis, research data, open science.
+**Keywords**: reading studies, literature, computational literary studies, text analysis, research data, open science.
 
 <!--
 ## More personal note
