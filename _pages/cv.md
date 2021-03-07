@@ -10,17 +10,17 @@ classes: wide
 
 * 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University and Saarland University, Le Mans/Saarbrücken
 
-  - Thesis: “Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne”
+  - Thesis: “Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne” [in English: Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments]
 
 * 2013-2014 -- **Master of Arts** in German Studies at University of Lorraine, Metz
 
 * 2012-2014 -- **Master of Arts** in French-German Studies: Cross-border Communication and Cooperation at Saarland University, University of Lorraine and University of Luxembourg
 
-  - Thesis: “Kulturzeitschriften im deutsch-französischen Vergleich am Beispiel von Literatur- und Kunstmagazinen”
+  - Thesis: “Kulturzeitschriften im deutsch-französischen Vergleich am Beispiel von Literatur- und Kunstmagazinen” [in English: Cultural journals in a Franco-German comparision using the example of literary and art magazines]
 
 * 2007-2012 -- **Bachelor of Arts** in Romance Studies (French) and European Art History at Heidelberg University
 
-  - Thesis: “Écrire la photographie/le photographique depuis Roland Barthes et Hervé Guibert”
+  - Thesis: “Écrire la photographie/le photographique depuis Roland Barthes et Hervé Guibert” [in English: Writing the photography/the photographic since Roland Barthes and Hervé Guibert]
 
 * 2009-2010 -- ERASMUS semester at Paul Valéry University of Montpellier
 
