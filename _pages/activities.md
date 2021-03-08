@@ -39,7 +39,8 @@ doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland Universi
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary thesis defense\
 doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland University, Saarbrücken, February 2020.
 
-*Auf Konfrontationskurs: Online-Buchbewertungen gegen einen Mix aus DH und Lese(r)theorien*\ doctoral students' day of Professor Anne Baillot, Le Mans University, October 2018.
+*Auf Konfrontationskurs: Online-Buchbewertungen gegen einen Mix aus DH und Lese(r)theorien*\ 
+doctoral students' day of Professor Anne Baillot, Le Mans University, October 2018.
 
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*\
 doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland University, Saarbrücken, October 2017.
@@ -53,7 +54,7 @@ doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland Universi
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*\
 doctoral students’ day of the laboratory 3L.AM, Le Mans University, March 2015.
 
-## <font color="#0092ca">Thesis presentation at master's courses M.A. Arts, Lettres et Langues</font>
+## <font color="#0092ca">Thesis presentation at master's courses -- M.A. Arts, Lettres et Langues</font>
 
 *Thesis Presentation* during the course *Pratiques, institutions et politiques culturelles. De la haine à l’amour : approches numériques des émotions*\
 on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, November 2018.
