@@ -54,7 +54,7 @@ doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland Universi
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*\
 doctoral students’ day of the laboratory 3L.AM, Le Mans University, March 2015.
 
-## <font color="#0092ca">PhD thesis presentation at master's courses -- M.A. Arts, Lettres et Langues</font>
+## <font color="#0092ca">PhD thesis presentation at master's courses - M.A. Arts, Lettres et Langues</font>
 
 *PhD thesis presentation* during the course *Pratiques, institutions et politiques culturelles. De la haine à l’amour : approches numériques des émotions*\
 on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, November 2018.
