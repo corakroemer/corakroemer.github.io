@@ -31,7 +31,7 @@ With Dr. Helen Chambers.
 *Die Literatur des Nachbarlandes im Spiegel der profanen Literaturkritik, Zwischenräume. Buch- und Literaturvermittlung im 20. und 21. Jahrhundert*\
 IBG Young Scholars, Johannes Gutenberg-Universität Mainz, Mainz, November 2015.
 
-## <font color="#0092ca">Doctor's thesis presentation at Doctoral Students’ Days</font>
+## <font color="#0092ca">PhD thesis presentation at Doctoral Students’ Days</font>
 
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary defence of the PhD thesis\
 doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland University, Saarbrücken (online), June 2020.
