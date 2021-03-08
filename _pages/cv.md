@@ -42,23 +42,23 @@ classes: wide
 
 * 05/2011 -- Cultural ambassador, Book Fair *Comédie du Livre*, City Hall Montpellier, Montpellier
 
-* 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg.
+* 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
 
 ## <font color="#0092ca">Training through Digital Humanities-workshops</font>
 
-* [*Sentiment Analysis in Literary Studies*](https://static.uni-graz.at/fileadmin/gewi-zentren/Informationsmodellierung/PDF/WS_Program_Sentiment.pdf), University of Graz (online), 17-19th February 2021.
+* [*Sentiment Analysis in Literary Studies*](https://static.uni-graz.at/fileadmin/gewi-zentren/Informationsmodellierung/PDF/WS_Program_Sentiment.pdf), University of Graz (online), 17-19th February 2021
 
-* *Structurer un corpus textuel (TEI et linguistic informatique) [Structuring a textual corpus (TEI and computational linguistics)]*, Le Mans University, 14th Mai 2019.
+* *Structurer un corpus textuel (TEI et linguistic informatique) [Structuring a textual corpus (TEI and computational linguistics)]*, Le Mans University, 14th Mai 2019
 
-* *Introduction aux méthodes quantitatives pour les lettres et langues [Introduction to quantitative methods for literature and languages]*, Le Mans University, Le Mans, 5th March 2019.
+* *Introduction aux méthodes quantitatives pour les lettres et langues [Introduction to quantitative methods for literature and languages]*, Le Mans University, Le Mans, 5th March 2019
 
-* *Introduction à l'édition numérique scientifique de correspondance [Introduction to scientific digital publishing of correspondence]*, Le Mans University, 13th November 2018.
+* *Introduction à l'édition numérique scientifique de correspondance [Introduction to scientific digital publishing of correspondence]*, Le Mans University, 13th November 2018
 
-* *Gérer et explorer les données textuelles [Managing and exploring textual data]*, Le Mans University, 12th April 2018.
+* *Gérer et explorer les données textuelles [Managing and exploring textual data]*, Le Mans University, 12th April 2018
 
-* *TEI : de l'image au texte [TEI: from the image to the text]*,  Le Mans University, 13th February 2018.
+* *TEI : de l'image au texte [TEI: from the image to the text]*,  Le Mans University, 13th February 2018
 
-* *Édition électronique et TEI : enjeux, pratiques et perspectives [Electronic publishing and TEI: issues, practices and prospects]*, Le Mans University, 14th November 2017.
+* *Édition électronique et TEI : enjeux, pratiques et perspectives [Electronic publishing and TEI: issues, practices and prospects]*, Le Mans University, 14th November 2017
 
 <!--
 ## <font color="#0092ca">Language skills</font> -->
