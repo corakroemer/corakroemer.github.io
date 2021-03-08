@@ -31,12 +31,12 @@ With Dr. Helen Chambers.
 *Die Literatur des Nachbarlandes im Spiegel der profanen Literaturkritik, Zwischenräume. Buch- und Literaturvermittlung im 20. und 21. Jahrhundert*\
 IBG Young Scholars, Johannes Gutenberg-Universität Mainz, Mainz, November 2015.
 
-## <font color="#0092ca">Thesis presentation at Doctoral Students’ Days</font>
+## <font color="#0092ca">Doctor's thesis presentation at Doctoral Students’ Days</font>
 
-*Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary thesis defense\
+*Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary defence of the PhD thesis\
 doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland University, Saarbrücken (online), June 2020.
 
-*Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary thesis defense\
+*Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne* – probationary defence of the PhD thesis\
 doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland University, Saarbrücken, February 2020.
 
 *Auf Konfrontationskurs: Online-Buchbewertungen gegen einen Mix aus DH und Lese(r)theorien*\
@@ -54,15 +54,15 @@ doctoral students’ day of Professor Hans-Jürgen Lüsebrink, Saarland Universi
 *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*\
 doctoral students’ day of the laboratory 3L.AM, Le Mans University, March 2015.
 
-## <font color="#0092ca">Thesis presentation at master's courses -- M.A. Arts, Lettres et Langues</font>
+## <font color="#0092ca">PhD thesis presentation at master's courses -- M.A. Arts, Lettres et Langues</font>
 
-*Thesis Presentation* during the course *Pratiques, institutions et politiques culturelles. De la haine à l’amour : approches numériques des émotions*\
+*PhD thesis presentation* during the course *Pratiques, institutions et politiques culturelles. De la haine à l’amour : approches numériques des émotions*\
 on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, November 2018.
 
-*Thesis Presentation* during the course *L’Europe des connaissances et connaissance de l’histoire intellectuelle de l’Europe à travers les humanités numériques*\
+*PhD thesis presentation* during the course *L’Europe des connaissances et connaissance de l’histoire intellectuelle de l’Europe à travers les humanités numériques*\
 on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, March 2018.
 
-*Thesis Presentation* during the course *Introduction aux humanités en environnement numérique*\
+*PhD thesis presentation* during the course *Introduction aux humanités en environnement numérique*\
 on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, February 2016.
 
 ## <font color="#0092ca">Science communication</font>
@@ -73,7 +73,7 @@ on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, February 2
 Workshop on the doctoral topic and on studies in the humanities for participants at the age of 5-20\
 Exposcience, École supérieure du professorat et de l’éducation (ESPE), Le Mans Université, Le Mans, June 2016.
 
-Participatory science experiement *Récits et souvenirs de lecture*\ 
+Participatory science experiement *Récits et souvenirs de lecture*\
 Mobilis, 2e Forum des Métiers du Livre et de la Lecture en Pays de la Loire, Université de Nantes, site de la Courtaisière, La Roche-sur-Yon, March 2016\
 With Dr. François Vignale and Gautier Michelin.
 
