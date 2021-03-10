@@ -69,12 +69,8 @@ galleryLeMans:
     image_path: /assets/images/lemans_arcenciel.jpg
   - url: /assets/images/lemans_bateau.jpg
     image_path: /assets/images/lemans_bateau.jpg
-  - url: /assets/images/lemans_cathedrale_gothique.jpg
-    image_path: /assets/images/lemans_cathedrale_gothique.jpg
   - url: /assets/images/lemans_cathedrale_levant_2.jpg
-    image_path: /assets/images/lemans_cathedrale_levant_2.jpg
-  - url: /assets/images/lemans_cathedrale_lumiere_1.jpg
-    image_path: /assets/images/lemans_cathedrale_lumiere_1.jpg   
+    image_path: /assets/images/lemans_cathedrale_levant_2.jpg   
   - url: /assets/images/lemans_cathedrale_noirblanc.jpg
     image_path: /assets/images/lemans_cathedrale_noirblanc.jpg
   - url: /assets/images/lemans_cathedrale_ombre_2.jpg
