@@ -41,12 +41,10 @@ galleryCrozon:
   - url: /assets/images/crozon_haengematte.jpg
     image_path: /assets/images/crozon_haengematte.jpg
 galleryAvignon:
-  - url: /assets/images/avignon_palais.jpg
-    image_path: /assets/images/avignon_palais.jpg
-  - url: /assets/images/avignon_graeber.jpg
-    image_path: /assets/images/avignon_graeber.jpg
   - url: /assets/images/avignon_pont.jpg
     image_path: /assets/images/avignon_pont.jpg
+  - url: /assets/images/avignon_palais.jpg
+    image_path: /assets/images/avignon_palais.jpg
   - url: /assets/images/avignon_spiegelung.jpg
     image_path: /assets/images/avignon_spiegelung.jpg
   - url: /assets/images/avignon_teinturiers.jpg
@@ -146,9 +144,9 @@ galleryDivers:
 
 {% include gallery id="galleryQuiberon" caption="Quiberon" %}
 
-{% include gallery id="galleryLeMans" caption="Le Mans" %}
+{% include gallery id="galleryLeMans" caption="Le Mans & Sarthe" %}
 
-{% include gallery id="galleryAvignon" caption="Avignon & Co" %}
+{% include gallery id="galleryAvignon" caption="Avignon" %}
 
 ## Austria
 
