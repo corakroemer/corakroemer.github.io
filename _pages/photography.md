@@ -59,6 +59,16 @@ galleryQuiberon:
     image_path: /assets/images/quiberon_arc.jpg
   - url: /assets/images/quiberon_maison.jpg
     image_path: /assets/images/quiberon_maison.jpg
+    
+galleryLyon:
+  - url: /assets/images/lyon_carre.jpg
+    image_path: /assets/images/lyon_carre.jpg
+  - url: /assets/images/lyon_eglise.jpg
+    image_path: /assets/images/lyon_eglise.jpg 
+  - url: /assets/images/lyon_eglise_plafond.jpg
+    image_path: /assets/images/lyon_eglise_plafond.jpg   
+  - url: /assets/images/lyon_trompeloeil.jpg
+    image_path: /assets/images/lyon_trompeloeil.jpg   
 
 galleryLeMans:
   - url: /assets/images/lemans_golf.jpg
@@ -149,9 +159,11 @@ galleryDivers:
 
 {% include gallery id="galleryQuiberon" caption="Quiberon" %}
 
-{% include gallery id="galleryLeMans" caption="Le Mans & Sarthe" %}
+{% include gallery id="galleryLyon" caption="Lyon" %}
 
 {% include gallery id="galleryAvignon" caption="Avignon" %}
+
+{% include gallery id="galleryLeMans" caption="Le Mans & Sarthe" %}
 
 ## Austria
 
