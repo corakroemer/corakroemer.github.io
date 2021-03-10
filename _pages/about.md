@@ -3,7 +3,7 @@ title: "About"
 permalink: / 
 classes: wide
 header:
-  image: /assets/images/splash_sea_IMG_4106.jpg
+  image: /assets/images/divers_eisscheibe.jpg
 ---
 <!-- <font color="#0092ca"> </font> -->
 
