@@ -9,6 +9,7 @@ galleryStavanger:
     image_path: /assets/images/fjord_haus.jpg
   - url: /assets/images/fjord_wasser.jpg
     image_path: /assets/images/fjord_wasser.jpg
+
 galleryOslo:   
   - url: /assets/images/oslo_figuren.jpg
     image_path: /assets/images/oslo_figuren.jpg
@@ -22,6 +23,7 @@ galleryOslo:
     image_path: /assets/images/oslo_opera_1.jpg
   - url: /assets/images/oslo_opera_2.jpg
     image_path: /assets/images/oslo_opera_2.jpg  
+
 galleryStMalo:
   - url: /assets/images/stmalo_mauer.jpg
     image_path: /assets/images/stmalo_mauer.jpg
@@ -35,11 +37,13 @@ galleryStMalo:
     image_path: /assets/images/stmalo_rochers.jpg
   - url: /assets/images/stmalo_rochers_jaune.jpg
     image_path: /assets/images/stmalo_rochers_jaune.jpg   
+
 galleryCrozon: 
   - url: /assets/images/crozon_klareswasser.jpg
     image_path: /assets/images/crozon_klareswasser.jpg
   - url: /assets/images/crozon_haengematte.jpg
     image_path: /assets/images/crozon_haengematte.jpg
+
 galleryAvignon:
   - url: /assets/images/avignon_pont.jpg
     image_path: /assets/images/avignon_pont.jpg
@@ -49,11 +53,13 @@ galleryAvignon:
     image_path: /assets/images/avignon_spiegelung.jpg
   - url: /assets/images/avignon_teinturiers.jpg
     image_path: /assets/images/avignon_teinturiers.jpg
+
 galleryQuiberon:
   - url: /assets/images/quiberon_arc.jpg
     image_path: /assets/images/quiberon_arc.jpg
   - url: /assets/images/quiberon_maison.jpg
     image_path: /assets/images/quiberon_maison.jpg
+
 galleryLeMans:
   - url: /assets/images/lemans_golf.jpg
     image_path: /assets/images/lemans_golf.jpg
@@ -95,6 +101,7 @@ galleryImst:
     image_path: /assets/images/imst_see_1.jpg
   - url: /assets/images/imst_see_2.jpg
     image_path: /assets/images/imst_see_2.jpg
+
 galleryOberstdorf:
   - url: /assets/images/oberstdorf_gipfelsee.jpg
     image_path: /assets/images/oberstdorf_gipfelsee.jpg
@@ -102,6 +109,7 @@ galleryOberstdorf:
     image_path: /assets/images/oberstdorf_schlucht_1.jpg
   - url: /assets/images/oberstdorf_see.jpg
     image_path: /assets/images/oberstdorf_see.jpg 
+
 galleryPfalz:
   - url: /assets/images/pfalz_aussicht_grotte.jpg
     image_path: /assets/images/pfalz_aussicht_grotte.jpg
@@ -111,6 +119,7 @@ galleryPfalz:
     image_path: /assets/images/pfalz_jardin_1.jpg
   - url: /assets/images/pfalz_baum_eis.jpg
     image_path: /assets/images/pfalz_baum_eis.jpg
+
 galleryDivers:
   - url: /assets/images/blatt_eis_1.jpg
     image_path: /assets/images/blatt_eis_1.jpg  
