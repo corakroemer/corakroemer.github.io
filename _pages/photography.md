@@ -29,10 +29,14 @@ galleryCrozon:
 galleryAvignon:
   - url: /assets/images/avignon_palais.jpg
     image_path: /assets/images/avignon_palais.jpg
-  - url: /assets/images/avignon_teinturiers.jpg
-    image_path: /assets/images/avignon_teinturiers.jpg
   - url: /assets/images/avignon_graeber.jpg
     image_path: /assets/images/avignon_graeber.jpg
+  - url: /assets/images/avignon_pont.jpg
+    image_path: /assets/images/avignon_pont.jpg
+  - url: /assets/images/avignon_spiegelung.jpg
+    image_path: /assets/images/avignon_spiegelung.jpg
+  - url: /assets/images/avignon_teinturiers.jpg
+    image_path: /assets/images/avignon_teinturiers.jpg
 galleryQuiberon:
   - url: /assets/images/quiberon_arc.jpg
     image_path: /assets/images/quiberon_arc.jpg
