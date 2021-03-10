@@ -36,7 +36,9 @@ galleryStMalo:
   - url: /assets/images/stmalo_rochers.jpg
     image_path: /assets/images/stmalo_rochers.jpg
   - url: /assets/images/stmalo_rochers_jaune.jpg
-    image_path: /assets/images/stmalo_rochers_jaune.jpg   
+    image_path: /assets/images/stmalo_rochers_jaune.jpg
+  - url: /assets/images/dinard_art.jpg
+    image_path: /assets/images/dinard_art.jpg   
 
 galleryCrozon: 
   - url: /assets/images/crozon_klareswasser.jpg
@@ -57,6 +59,14 @@ galleryQuiberon:
     image_path: /assets/images/quiberon_arc.jpg
   - url: /assets/images/quiberon_maison.jpg
     image_path: /assets/images/quiberon_maison.jpg
+  - url: /assets/images/belleile_felsen.jpg
+    image_path: /assets/images/belleile_felsen.jpg
+  - url: /assets/images/belleile_nadeln.jpg
+    image_path: /assets/images/belleile_nadeln.jpg
+  - url: /assets/images/carnac_fleurs.jpg
+    image_path: /assets/images/carnac_fleurs.jpg
+  - url: /assets/images/carnac_maisons.jpg
+    image_path: /assets/images/carnac_maisons.jpg  
     
 galleryLyon:
   - url: /assets/images/lyon_carre.jpg
@@ -151,11 +161,11 @@ galleryDivers:
 
 ## France
 
-{% include gallery id="galleryStMalo" caption="Saint-Malo" %}
+{% include gallery id="galleryStMalo" caption="Saint-Malo & Dinard" %}
 
 {% include gallery id="galleryCrozon" caption="Crozon" %}
 
-{% include gallery id="galleryQuiberon" caption="Quiberon" %}
+{% include gallery id="galleryQuiberon" caption="Quiberon & Belle-île & Carnac" %}
 
 {% include gallery id="galleryLyon" caption="Lyon" %}
 
