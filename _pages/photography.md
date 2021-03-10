@@ -49,8 +49,6 @@ galleryAvignon:
     image_path: /assets/images/avignon_pont.jpg
   - url: /assets/images/avignon_palais.jpg
     image_path: /assets/images/avignon_palais.jpg
-  - url: /assets/images/avignon_spiegelung.jpg
-    image_path: /assets/images/avignon_spiegelung.jpg
   - url: /assets/images/avignon_teinturiers.jpg
     image_path: /assets/images/avignon_teinturiers.jpg
 
