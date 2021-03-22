@@ -8,7 +8,7 @@ classes: wide
 
 ## <font color="#0092ca">Education</font>
 
-* 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University (Doctorat en Langues, littératures françaises et littératures francophones) and Saarland University (Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation), Le Mans/Saarbrücken
+* 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University (Doctorat en Langue, littératures françaises et littératures francophones) and Saarland University (Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation), Le Mans/Saarbrücken
 
   - Thesis: “Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne” [in English: Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments]
 
