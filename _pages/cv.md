@@ -8,27 +8,27 @@ classes: wide
 
 ## <font color="#0092ca">Education</font>
 
-* 2014-2020 -- **PhD** in French Literature and Romance Studies at Le Mans University (Doctorat en Langue, littératures françaises et littératures francophones) and Saarland University (Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation), Le Mans/Saarbrücken
+* 2014-2020 -- **PhD** in French Literature and Romance Studies at [Le Mans University](http://www.univ-lemans.fr/fr/index.html) (Doctorat en Langue, littératures françaises et littératures francophones) and [Saarland University](https://www.uni-saarland.de/start.html) (Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation), Le Mans/Saarbrücken
 
-  - Thesis: “Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne” [in English: Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments]
+  - Thesis: [“Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne”](https://tel.archives-ouvertes.fr/tel-03199594)[in English: Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments]
 
-* 2013-2014 -- **Master of Arts** in German Studies at University of Lorraine, Metz
+* 2013-2014 -- **Master of Arts** in German Studies at [University of Lorraine](https://www.univ-lorraine.fr), Metz
 
-* 2012-2014 -- **Master of Arts** in French-German Studies: Cross-border Communication and Cooperation at Saarland University, University of Lorraine and University of Luxembourg
+* 2012-2014 -- **Master of Arts** in [French-German Studies: Cross-border Communication and Cooperation](https://www.uni-saarland.de/studium/angebot/master/dfs.html) at [Saarland University](https://www.uni-saarland.de/start.html), [University of Lorraine](https://www.univ-lorraine.fr) and [University of Luxembourg](https://wwwfr.uni.lu)
 
   - Thesis: “Kulturzeitschriften im deutsch-französischen Vergleich am Beispiel von Literatur- und Kunstmagazinen” [in English: Cultural journals in a Franco-German comparision using the example of literary and art magazines]
 
-* 2007-2012 -- **Bachelor of Arts** in Romance Studies (French) and European Art History at Heidelberg University
+* 2007-2012 -- **Bachelor of Arts** in [Romance Studies (French)](https://www.uni-heidelberg.de/rose/studium/bachelor/allg_praesent_ba_fra.html) and [European Art History](https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/europaeische-kunstgeschichte/europaeische-kunstgeschichte-bachelor-25) at [Heidelberg University](https://www.uni-heidelberg.de/de)
 
   - Thesis: “Écrire la photographie/le photographique depuis Roland Barthes et Hervé Guibert” [in English: Writing the photography/the photographic since Roland Barthes and Hervé Guibert]
 
-* 2009-2010 -- ERASMUS semester at Paul Valéry University of Montpellier
+* 2009-2010 -- ERASMUS semester at [Paul-Valéry Montpellier 3 University](https://www.univ-montp3.fr)
 
-* 2007 -- General qualification for university entrance (**Abitur**) at Freie Waldorfschule Frankenthal
+* 2007 -- General qualification for university entrance (**Abitur**) at [Freie Waldorfschule Frankenthal](https://www.fwsft.de)
 
 ## <font color="#0092ca">Academic self-administration</font>
 
-* 2017-2020 -- Elected member in the council of the research laboratory *Langues, littératures and linguistiques des universités d'Angers et du Mans* (3L.AM), Le Mans University -- representative of the doctoral students
+* 2017-2020 -- Elected member in the council of the research laboratory [*Langues, littératures and linguistiques des universités d'Angers et du Mans*](http://3lam.univ-lemans.fr/fr/index.html) (3L.AM), Le Mans University -- representative of the doctoral students
 
 ## <font color="#0092ca">Practical Experience</font>
 
@@ -36,13 +36,13 @@ classes: wide
 
 * 09/2013 -- Stand manager at the fair *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
 
-* 05-06/2013 -- Internship, regional advisory office Saarland-Moselle-Lorraine-West Palatinate (GIP INTERREG) of the EU-program INTERREG IV-A Greater region, Metz
+* 05-06/2013 -- Internship, regional advisory office Saarland-Moselle-Lorraine-West Palatinate (GIP INTERREG) of the EU-program [INTERREG IV-A Greater region](http://www.interreg-4agr.eu/fr/page.php?pageId=345), Metz
 
-* 02-04/2012 -- Internship in the culture and language department, Deutsch-französisches Institut, Erlangen
+* 02-04/2012 -- Internship in the culture and language department, [Deutsch-französisches Institut](https://www.dfi-erlangen.de), Erlangen
 
-* 05/2011 -- Cultural ambassador, Book Fair *Comédie du Livre*, City Hall Montpellier, Montpellier
+* 05/2011 -- Cultural ambassador, Book Fair [*Comédie du Livre*](https://comediedulivre.fr), City Hall Montpellier, Montpellier
 
-* 2010-2011 -- Research assistant, Library of the Romance seminar and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
+* 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
 
 ## <font color="#0092ca">Training through Digital Humanities-workshops</font>
 
