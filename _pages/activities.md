@@ -7,6 +7,9 @@ classes: wide
 
 ## <font color="#0092ca">Publications</font>
 
+Cora Felicitas Krömer: *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*. Doctoral thesis. Le Mans; Saarbrücken: Le Mans Université; Universität des Saarlandes. December 2020. [[pdf]](https://tel.archives-ouvertes.fr/tel-03199594).
+
+
 Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & Gaming”. In *Publije* [online], No 1, Juli 2019. [[pdf]](http://revues.univ-lemans.fr/index.php/publije/article/view/142/136).
 
 ## <font color="#0092ca">Talks</font>
