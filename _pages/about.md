@@ -2,8 +2,9 @@
 title: "About"
 permalink: / 
 classes: wide
+link-color: blue
 header:
-  image: /assets/images/divers_eisscheibe.jpg
+  image: /assets/images/divers_eisscheibe.jpg  
 ---
 <!-- <font color="#0092ca"> </font> -->
 
