@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Cora F. Krömer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "French Literature. Digital Humanities. Cross-border Cooperation." #"Researching. Reading. Learning. Cycling. Photographying."
+  bio    : "French Literature. Digital Humanities. Cross-border Cooperation. Research Data Management. Always researching, learning, biking and photographying." #"Researching. Reading. Learning. Cycling. Photographying."
   location : "Germany"
   links:
     - label: "Email"
