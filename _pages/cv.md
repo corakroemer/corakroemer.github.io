@@ -30,19 +30,23 @@ classes: wide
 
 * 2017-2020 -- Elected member in the council of the research laboratory [*Langues, littératures and linguistiques des universités d'Angers et du Mans*](http://3lam.univ-lemans.fr/fr/index.html) (3L.AM), Le Mans University -- representative of the doctoral students
 
-## <font color="#0092ca">Practical Experience</font>
+## <font color="#0092ca">Jobs</font>
+
+<!-- * since 07/2021 -- Research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)" at the University Library Erlangen-Nürnberg -->
 
 * 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
 
 * 09/2013 -- Stand manager at the fair *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
+
+* 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
+
+## <font color="#0092ca">Practical Experience</font>
 
 * 05-06/2013 -- Internship, regional advisory office Saarland-Moselle-Lorraine-West Palatinate (GIP INTERREG) of the EU-program [INTERREG IV-A Greater region](http://www.interreg-4agr.eu/fr/page.php?pageId=345), Metz
 
 * 02-04/2012 -- Internship in the culture and language department, [Deutsch-französisches Institut](https://www.dfi-erlangen.de), Erlangen
 
 * 05/2011 -- Cultural ambassador, Book Fair [*Comédie du Livre*](https://comediedulivre.fr), City Hall Montpellier, Montpellier
-
-* 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
 
 ## <font color="#0092ca">Training through Digital Humanities-workshops</font>
 
