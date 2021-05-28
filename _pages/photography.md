@@ -61,12 +61,8 @@ galleryQuiberon:
     image_path: /assets/images/quiberon_maison.jpg
   - url: /assets/images/belleile_felsen.jpg
     image_path: /assets/images/belleile_felsen.jpg
-  - url: /assets/images/belleile_nadeln.jpg
-    image_path: /assets/images/belleile_nadeln.jpg
   - url: /assets/images/carnac_fleurs.jpg
     image_path: /assets/images/carnac_fleurs.jpg
-  - url: /assets/images/carnac_maisons.jpg
-    image_path: /assets/images/carnac_maisons.jpg  
     
 galleryLyon:
   - url: /assets/images/lyon_carre.jpg
