@@ -17,7 +17,7 @@ Cora F. Krömer studied Romance Philology <!--(https://www.uni-heidelberg.de/ros
 
 Are you interested to know more about the thesis? [Read this](https://corakroemer.github.io/thesis/). Or about the data set? [Read this](https://corakroemer.github.io/dataset/).
 
-She is currently working as research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)" at the University Library Erlangen-Nürnberg.
+She is currently working as research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)" at the University Library Erlangen-Nuremberg. eHumanities -- interdisziplinär is developing new tools, support methods and best practice recommendations (i.e. DataCite, RDMO) for research data management within the Humanities.
 
 ## Research interests
 
