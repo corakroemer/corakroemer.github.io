@@ -64,6 +64,10 @@ classes: wide
 
 * *Édition électronique et TEI : enjeux, pratiques et perspectives [Electronic publishing and TEI: issues, practices and prospects]*, Le Mans University, 14th November 2017
 
+## <font color="#0092ca">Scholarships</font>
+
+* 2015-2017 -- Doctoral fellowship, French Ministry for Higher Education and Research
+
 <!--
 ## <font color="#0092ca">Language skills</font> -->
 
