@@ -30,6 +30,10 @@ classes: wide
 
 * 2017-2020 -- Elected member in the council of the research laboratory [*Langues, littératures and linguistiques des universités d'Angers et du Mans*](http://3lam.univ-lemans.fr/fr/index.html) (3L.AM), Le Mans University -- representative of the doctoral students
 
+## <font color="#0092ca">Scholarships</font>
+
+* 2015-2017 -- Doctoral fellowship, French Ministry for Higher Education and Research
+
 ## <font color="#0092ca">Jobs</font>
 
 * since 07/2021 -- Research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)" at the University Library Erlangen-Nuremberg
@@ -64,9 +68,6 @@ classes: wide
 
 * *Édition électronique et TEI : enjeux, pratiques et perspectives [Electronic publishing and TEI: issues, practices and prospects]*, Le Mans University, 14th November 2017
 
-## <font color="#0092ca">Scholarships</font>
-
-* 2015-2017 -- Doctoral fellowship, French Ministry for Higher Education and Research
 
 <!--
 ## <font color="#0092ca">Language skills</font> -->
