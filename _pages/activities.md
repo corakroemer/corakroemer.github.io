@@ -7,11 +7,11 @@ classes: wide
 
 ## <font color="#0092ca">Publications</font>
 
-Cora Krömer and Jürgen Rohrwild: *Erstellung eines Service-Portfolios zur FDM-Vermittlung in der Graduiertenausbildung* (Version 1.0). Working Paper. Zenodo, October 2021. DOI: [10.5281/zenodo.5572331](https://doi.org/10.5281/zenodo.5572331).
+Cora Krömer and Jürgen Rohrwild: "Erstellung eines Service-Portfolios zur FDM-Vermittlung in der Graduiertenausbildung" (Version 1.0). Working Paper. *Zenodo*, October 2021. DOI: [10.5281/zenodo.5572331](https://doi.org/10.5281/zenodo.5572331).
 
 Cora Felicitas Krömer: *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*. PhD thesis. Le Mans; Saarbrücken: Le Mans Université; Universität des Saarlandes, December 2020. [[pdf]](https://tel.archives-ouvertes.fr/tel-03199594).
 
-Cora Krömer: *Expériences de lecture Babelio* (Version 1.0.0). Data set. Zenodo. October 2020. DOI: [10.5281/zenodo.4066684](https://doi.org/10.5281/zenodo.4066684).
+Cora Krömer: "Expériences de lecture Babelio" (Version 1.0.0). Data set. *Zenodo*. October 2020. DOI: [10.5281/zenodo.4066684](https://doi.org/10.5281/zenodo.4066684).
 
 Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & Gaming”. In *Publije* [online], No 1, Juli 2019. [[pdf]](http://revues.univ-lemans.fr/index.php/publije/article/view/142/136).
 
