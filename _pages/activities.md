@@ -7,6 +7,8 @@ classes: wide
 
 ## <font color="#0092ca">Publications</font>
 
+Cora Krömer and Jürgen Rohrwild: *Erstellung eines Service-Portfolios zur FDM-Vermittlung in der Graduiertenausbildung*, Working Paper (Version 1.0). Zenodo, October 2021. DOI: [10.5281/zenodo.5572331](https://doi.org/10.5281/zenodo.5572331).
+
 Cora Felicitas Krömer: *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*. PhD thesis. Le Mans; Saarbrücken: Le Mans Université; Universität des Saarlandes, December 2020. [[pdf]](https://tel.archives-ouvertes.fr/tel-03199594).
 
 
