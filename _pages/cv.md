@@ -36,11 +36,11 @@ classes: wide
 
 ## <font color="#0092ca">Jobs</font>
 
-* since 07/2021 -- Research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+* since 07/2021 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
 * 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
 
-* 09/2013 -- Stand manager at the fair *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
+* 09/2013 -- Stand manager, *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
 
 * 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
 
