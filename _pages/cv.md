@@ -36,7 +36,7 @@ classes: wide
 
 ## <font color="#0092ca">Jobs</font>
 
-* since 07/2021 -- Research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)" at the University Library Erlangen-Nuremberg
+* since 07/2021 -- Research associate for the pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
 * 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
 
@@ -103,3 +103,7 @@ classes: wide
 <!--* Python -- <font color="grey">Basic knowledge</font> -->
 
 <!--* R -- <font color="grey">Basic knowledge</font> -->
+
+<!--* WordPress -- <font color="grey">Basic knowledge</font> -->
+
+<!--* Typo3 -- <font color="grey">Basic knowledge</font> -->
