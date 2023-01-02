@@ -7,18 +7,20 @@ classes: wide
 
 ## <font color="#0092ca">Publications</font>
 
+Cora Krömer and Jürgen Rohrwild: "FDM-Handreichungen" (Version 1.0). eHumanities - interdisziplinär, September 2022. [GitLab](https://gitlab.rrze.fau.de/cdi/labs/literacy/proposal-self-service).
+
 Cora Krömer and Jürgen Rohrwild: "Erstellung eines Service-Portfolios zur FDM-Vermittlung in der Graduiertenausbildung" (Version 1.0). Working Paper. *Zenodo*, October 2021. DOI: [10.5281/zenodo.5572331](https://doi.org/10.5281/zenodo.5572331).
 
 Cora Felicitas Krömer: *Crise de lecture : la lecture, une idée neuve à l’ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne*. PhD thesis. Le Mans; Saarbrücken: Le Mans Université; Universität des Saarlandes, December 2020. [[pdf]](https://tel.archives-ouvertes.fr/tel-03199594).
 
 Cora Krömer: "Expériences de lecture Babelio" (Version 1.0.0). Data set. *Zenodo*. October 2020. DOI: [10.5281/zenodo.4066684](https://doi.org/10.5281/zenodo.4066684).
 
-Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & Gaming”. In *Publije* [online], No 1, Juli 2019. [[pdf]](http://revues.univ-lemans.fr/index.php/publije/article/view/142/136).
+Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & Gaming”. In *Publije* [online], No 1, July 2019. [[pdf]](http://revues.univ-lemans.fr/index.php/publije/article/view/142/136).
 
 ## <font color="#0092ca">Talks</font>
 
 *Reading (dis)pleasure in the digital age: reading experiences shared in an online reading community*\
-IGEL 2018, University of Stavanger, Juli 2018.\
+IGEL 2018, University of Stavanger, July 2018.\
 Co-organization and chair of the session *Pleasures and Displeasures of Reading: Four Studies on Readers’ Experiences.*
 
 *Le déchirement et l’entre-deux : la migration et l’exil chez Jean Portante*\
@@ -31,7 +33,7 @@ SHARP 2017 -- Technologies of the Book, University of Victoria, Victoria, BC, Ca
 New Directions in Print Culture Studies, Oxford Brookes University, Oxford, Mai 2017.
 
 *Lexique français de la lecture*\
-SHARP 2016 -- Les langues du livre, Bibliothèque Nationale de France, Paris, Juli 2016.\
+SHARP 2016 -- Les langues du livre, Bibliothèque Nationale de France, Paris, July 2016.\
 With Dr. Helen Chambers.
 
 *Die Literatur des Nachbarlandes im Spiegel der profanen Literaturkritik, Zwischenräume. Buch- und Literaturvermittlung im 20. und 21. Jahrhundert*\
@@ -91,3 +93,9 @@ With Dr. Carole Wernert.
 Participatory science experiement *Récits et souvenirs de lecture*\
 Nuit Européenne des Chercheur.e.s 2015, Carré Plantagenêt, Musée d’Art et d’Histoire, Le Mans, September 2015.\
 With Professor Brigitte Ouvry-Vial and Gautier Michelin.
+
+## <font color="#0092ca">Website</font>
+
+Relaunch of [fdm-bayern.org](https://www.fdm-bayern.org) in the context of work for the "[eHumanities-interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)"-project\
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek, 2022.\
+Redesign, restructuring and content addition.
