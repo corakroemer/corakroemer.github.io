@@ -8,7 +8,7 @@ classes: wide
 
 ## <font color="#0092ca">Education</font>
 
-* 2014-2020 -- **PhD** in French Literature and Romance Studies at [Le Mans University](http://www.univ-lemans.fr/fr/index.html) (Doctorat en Langue, littératures françaises et littératures francophones) and [Saarland University](https://www.uni-saarland.de/start.html) (Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation), Le Mans/Saarbrücken
+* 2014-2020 -- **PhD** in French Literature and Romance Studies at [Le Mans University](http://www.univ-lemans.fr/fr/index.html) (Doctorat en Langue, littératures françaises et littératures francophones) and [Saarland University](https://www.uni-saarland.de/start.html)<!--(Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation)-->, Le Mans/Saarbrücken
 
   - Thesis: [“Crise de lecture : la lecture, une idée neuve à l'ère du numérique ? Le cas des ouvrages de fiction et de leurs commentaires en ligne”](https://tel.archives-ouvertes.fr/tel-03199594)[in English: Reading crisis: reading, a new idea in the digital age? The case of fiction books and their online comments]
 
@@ -24,8 +24,6 @@ classes: wide
 
 * 2009-2010 -- ERASMUS semester at [Paul-Valéry Montpellier 3 University](https://www.univ-montp3.fr)
 
-* 2007 -- General qualification for university entrance (**Abitur**) at [Freie Waldorfschule Frankenthal](https://www.fwsft.de)
-
 ## <font color="#0092ca">Academic self-administration</font>
 
 * 2017-2020 -- Elected member in the council of the research laboratory [*Langues, littératures and linguistiques des universités d'Angers et du Mans*](http://3lam.univ-lemans.fr/fr/index.html) (3L.AM), Le Mans University -- representative of the doctoral students
@@ -35,6 +33,8 @@ classes: wide
 * 2015-2017 -- Doctoral fellowship, French Ministry for Higher Education and Research
 
 ## <font color="#0092ca">Jobs</font>
+
+* since 01/2022 -- Research associate, "LaVe"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
 * since 07/2021 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
