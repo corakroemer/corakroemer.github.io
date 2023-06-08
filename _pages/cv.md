@@ -34,9 +34,11 @@ classes: wide
 
 ## <font color="#0092ca">Jobs</font>
 
-* since 01/2022 -- Research associate, "LaVe"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+* since 06/2023 -- Project coordinator, "bwFDM", KIT - Karlsruhe Institute of Technology, University Library, Research Services
 
-* since 07/2021 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+* 01/2022-05/2023 -- Research associate, "[LaVe](https://www.fdm-bayern.org/projekte/lave/)"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+
+* 07/2021-05/2023 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
 * 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
 
