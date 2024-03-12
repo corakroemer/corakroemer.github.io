@@ -34,7 +34,7 @@ classes: wide
 
 ## <font color="#0092ca">Jobs</font>
 
-* since 06/2023 -- Project coordinator, "bwFDM", KIT - Karlsruhe Institute of Technology, University Library, Research Services
+* since 06/2023 -- Coordinator, "[bwFDM](https://bwfdm.de)" -- The Federal State Initiative for Research Data Management in Baden-Württemberg, KIT - Karlsruhe Institute of Technology, University Library, Research Services
 
 * 01/2022-05/2023 -- Research associate, "[LaVe](https://www.fdm-bayern.org/projekte/lave/)"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
 
