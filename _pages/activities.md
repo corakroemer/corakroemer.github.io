@@ -7,6 +7,12 @@ classes: wide
 
 ## <font color="#0092ca">Publications</font>
 
+Sophie Habinger and Cora Krömer: "Coordinating Research Data Management Activities on the State Level. The Example of Baden-Württemberg". Poster. *Zenodo*, February 2024. DOI: [10.5281/zenodo.10630321](https://doi.org/10.5281/zenodo.10630321).
+
+Cora Krömer and Fabian Schubö: "bwFDM -- The Federal State Initiative for Research Data Management in Baden-Württemberg". Poster. *Zenodo*, October 2023. DOI: [10.5281/zenodo.10000761](https://doi.org/10.5281/zenodo.10000761).
+
+Maximilian Heber and Cora Krömer: "bwFDM. FDM manet^* in Baden-Württemberg -- von Projekten zur Landesinitiative". Poster. *Zenodo*, October 2023. DOI: [10.5281/zenodo.8424361](https://doi.org/10.5281/zenodo.8424361).
+
 Cora Krömer and Jürgen Rohrwild: "FDM-Handreichungen" (Version 1.0). eHumanities - interdisziplinär, September 2022. [GitLab](https://gitlab.rrze.fau.de/cdi/labs/literacy/proposal-self-service).
 
 Cora Krömer and Jürgen Rohrwild: "Erstellung eines Service-Portfolios zur FDM-Vermittlung in der Graduiertenausbildung" (Version 1.0). Working Paper. *Zenodo*, October 2021. DOI: [10.5281/zenodo.5572331](https://doi.org/10.5281/zenodo.5572331).
@@ -18,6 +24,10 @@ Cora Krömer: "Expériences de lecture Babelio" (Version 1.0.0). Data set. *Zeno
 Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & Gaming”. In *Publije* [online], No 1, July 2019. [[pdf]](http://revues.univ-lemans.fr/index.php/publije/article/view/142/136).
 
 ## <font color="#0092ca">Talks</font>
+
+*The Federal State Initiative for RDM as Intermediaries in a Dynamic Landscape of RDM Infrastructures and Services*\
+CoRDI 2023, Karlsruher Institut für Technologie, Karlsruhe, September 2023.\
+With representatives from other Federal State Initiatives for RDM.
 
 *Reading (dis)pleasure in the digital age: reading experiences shared in an online reading community*\
 IGEL 2018, University of Stavanger, July 2018.\
@@ -38,6 +48,12 @@ With Dr. Helen Chambers.
 
 *Die Literatur des Nachbarlandes im Spiegel der profanen Literaturkritik, Zwischenräume. Buch- und Literaturvermittlung im 20. und 21. Jahrhundert*\
 IBG Young Scholars, Johannes Gutenberg-Universität Mainz, Mainz, November 2015.
+
+## <font color="#0092ca">Workshop</font>
+
+*Textexplorationen in der digitalen Literaturwissenschaft - Eine kritische und angewandte Auseinandersetzung mit Repräsentations- und Interpretationsansätzen von Text*\
+DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands „Digital Humanities im deutschsprachigen Raum“, Universität Potsdam/Fachhochschule Potsdam, Potsdam (online), March 2022.\
+With Dr. Stephanie Brandl, Dr. David Lassner and Prof. Dr. Anne Baillot.
 
 ## <font color="#0092ca">PhD thesis presentation at Doctoral Students’ Days</font>
 
@@ -75,6 +91,13 @@ on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, February 2
 
 ## <font color="#0092ca">Science communication</font>
 
+*Rom ist auch nicht an einem Tag erbaut worden -- Grundlage des Forschungsdatenmanagement*\
+Nacht der Wissenschaft, Karlsruher Institut für Technologie, Karlsruhe, November 2023.\
+With Dr. Michael Anger and Charlotte Neidiger.
+
+Participation in a poster competition with presentation to an academic and non-academic jury\
+Forum Jeunes-Recherche, Le Mans Université, Le Mans, November 2016.
+
 *Lire son voisin : la réception de la littérature française en Allemagne*\
 27th Carrefour de la Pensée Allemagne, si proche, si peu connue, Palais des Congrès et de la Culture du Mans, Le Mans, March 2017.
 
@@ -95,6 +118,9 @@ Nuit Européenne des Chercheur.e.s 2015, Carré Plantagenêt, Musée d’Art et 
 With Professor Brigitte Ouvry-Vial and Gautier Michelin.
 
 ## <font color="#0092ca">Website</font>
+
+Launch of [bwfdm.de](https://bwfdm.de) in the context the work for bwFDM, Karlsruher Institut für Technologie, Karlsruhe, Abteilung Forschungsdienste, 2024\
+In cooperation with the bwFDM-team.
 
 Relaunch of [fdm-bayern.org](https://www.fdm-bayern.org) in the context of work for the "[eHumanities-interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)"-project\
 Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek, 2022.\
