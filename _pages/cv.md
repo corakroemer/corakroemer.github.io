@@ -6,6 +6,20 @@ classes: wide
 
 <!-- <font color="#0092ca"> </font> -->
 
+## <font color="#0092ca">Jobs</font>
+
+* since 06/2023 -- Coordinator, "[bwFDM](https://bwfdm.de)" -- The Federal State Initiative for Research Data Management in Baden-Württemberg, KIT - Karlsruhe Institute of Technology, KIT-Library, Research Services
+
+* 01/2022-05/2023 -- Research associate, "[LaVe](https://www.fdm-bayern.org/projekte/lave/)"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+
+* 07/2021-05/2023 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
+
+* 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
+
+* 09/2013 -- Stand manager, *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
+
+* 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
+
 ## <font color="#0092ca">Education</font>
 
 * 2014-2020 -- **PhD** in French Literature and Romance Studies at [Le Mans University](http://www.univ-lemans.fr/fr/index.html) (Doctorat en Langue, littératures françaises et littératures francophones) and [Saarland University](https://www.uni-saarland.de/start.html)<!--(Dr. phil. in Französische Kulturwissenschaft und interkulturelle Kommunikation)-->, Le Mans/Saarbrücken
@@ -32,19 +46,7 @@ classes: wide
 
 * 2015-2017 -- Doctoral fellowship, French Ministry for Higher Education and Research
 
-## <font color="#0092ca">Jobs</font>
 
-* since 06/2023 -- Coordinator, "[bwFDM](https://bwfdm.de)" -- The Federal State Initiative for Research Data Management in Baden-Württemberg, KIT - Karlsruhe Institute of Technology, University Library, Research Services
-
-* 01/2022-05/2023 -- Research associate, "[LaVe](https://www.fdm-bayern.org/projekte/lave/)"-project, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
-
-* 07/2021-05/2023 -- Research associate, pilot project "[eHumanities -- interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)", Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek
-
-* 2015-2016 -- Co-organization of the European Researchers Night (*Nuit Européenne des Chercheur.e.s 2016*), Le Mans Université
-
-* 09/2013 -- Stand manager, *Welt der Familie*, Ministry of Economy, Labor, Energy and Transport Saarland/EU-Program INTERREG IV-A Greater Region, Saarbrücken
-
-* 2010-2011 -- Research assistant, [Library of the Romance seminar](https://www.uni-heidelberg.de/rose/bib/) and Victor-Hugo Bibliothek, Heidelberg University, Heidelberg
 
 ## <font color="#0092ca">Practical Experience</font>
 
