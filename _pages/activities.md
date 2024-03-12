@@ -26,7 +26,7 @@ Chloé Aubry, Cora Krömer and Brigitte Ouvry-Vial: “Introduction : Reading & 
 ## <font color="#0092ca">Talks</font>
 
 *The Federal State Initiative for RDM as Intermediaries in a Dynamic Landscape of RDM Infrastructures and Services*\
-CoRDI 2023, Karlsruher Institut für Technologie, Karlsruhe, September 2023.\
+CoRDI 2023, Karlsruhe Institute of Technology, Karlsruhe, September 2023.\
 With representatives from other Federal State Initiatives for RDM.
 
 *Reading (dis)pleasure in the digital age: reading experiences shared in an online reading community*\
@@ -34,7 +34,7 @@ IGEL 2018, University of Stavanger, July 2018.\
 Co-organization and chair of the session *Pleasures and Displeasures of Reading: Four Studies on Readers’ Experiences.*
 
 *Le déchirement et l’entre-deux : la migration et l’exil chez Jean Portante*\
-Les œuvres de l’exil, une autre médiation culturelle ?, Le Mans Université, Le Mans, November 2017.
+Les œuvres de l’exil, une autre médiation culturelle ?, Le Mans University, Le Mans, November 2017.
 
 *Searching for the hows and whys of reading experiences: francophone online reviews of three contemporary novels*\
 SHARP 2017 -- Technologies of the Book, University of Victoria, Victoria, BC, Canada, June 2017.
@@ -52,7 +52,7 @@ IBG Young Scholars, Johannes Gutenberg-Universität Mainz, Mainz, November 2015.
 ## <font color="#0092ca">Workshop</font>
 
 *Textexplorationen in der digitalen Literaturwissenschaft - Eine kritische und angewandte Auseinandersetzung mit Repräsentations- und Interpretationsansätzen von Text*\
-DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands „Digital Humanities im deutschsprachigen Raum“, Universität Potsdam/Fachhochschule Potsdam, Potsdam (online), March 2022.\
+DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands „Digital Humanities im deutschsprachigen Raum“, University of Potsdam/University of Applied Sciences Potsdam, Potsdam (online), March 2022.\
 With Dr. Stephanie Brandl, Dr. David Lassner and Prof. Dr. Anne Baillot.
 
 ## <font color="#0092ca">PhD thesis presentation at Doctoral Students’ Days</font>
@@ -92,25 +92,25 @@ on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, February 2
 ## <font color="#0092ca">Science communication</font>
 
 *Rom ist auch nicht an einem Tag erbaut worden -- Grundlage des Forschungsdatenmanagement*\
-Nacht der Wissenschaft, Karlsruher Institut für Technologie, Karlsruhe, November 2023.\
+Nacht der Wissenschaft, Karlsruhe Institute of Technology, Karlsruhe, November 2023.\
 With Dr. Michael Anger and Charlotte Neidiger.
 
 Participation in a poster competition with presentation to an academic and non-academic jury\
-Forum Jeunes-Recherche, Le Mans Université, Le Mans, November 2016.
+Forum Jeunes-Recherche, Le Mans University, Le Mans, November 2016.
 
 *Lire son voisin : la réception de la littérature française en Allemagne*\
 27th Carrefour de la Pensée Allemagne, si proche, si peu connue, Palais des Congrès et de la Culture du Mans, Le Mans, March 2017.
 
 Workshop on the doctoral topic and on studies in the humanities for participants at the age of 5-20\
-Exposcience, École supérieure du professorat et de l’éducation (ESPE), Le Mans Université, Le Mans, June 2016.
+Exposcience, École supérieure du professorat et de l’éducation (ESPE), Le Mans University, Le Mans, June 2016.
 
 Participatory science experiement *Récits et souvenirs de lecture*\
-Mobilis, 2e Forum des Métiers du Livre et de la Lecture en Pays de la Loire, Université de Nantes, site de la Courtaisière, La Roche-sur-Yon, March 2016\
+Mobilis, 2e Forum des Métiers du Livre et de la Lecture en Pays de la Loire, University of Nantes, site de la Courtaisière, La Roche-sur-Yon, March 2016\
 With Dr. François Vignale and Gautier Michelin.
 
 *Je n’ai pas de blouse, je ne fais pas d’expérience, je ne fais pas d’équation mais je suis scientifique, qui suis-je ?*\
 Workshop on the doctoral thesis and on studies in the humanities for students of the secondary school Suzanne Bouteloup-Mayet\
-Petits Débrouillards, Le Mans Université, Le Mans, February 2016.\
+Petits Débrouillards, Le Mans University, Le Mans, February 2016.\
 With Dr. Carole Wernert.
 
 Participatory science experiement *Récits et souvenirs de lecture*\
@@ -119,9 +119,9 @@ With Professor Brigitte Ouvry-Vial and Gautier Michelin.
 
 ## <font color="#0092ca">Website</font>
 
-Launch of [bwfdm.de](https://bwfdm.de) in the context the work for bwFDM, Karlsruher Institut für Technologie, Karlsruhe, Abteilung Forschungsdienste, 2024\
+Launch of [bwfdm.de](https://bwfdm.de) in the context the work for bwFDM, Karlsruhe Institute of Technology, Karlsruhe, Abteilung Forschungsdienste, 2024\
 In cooperation with the bwFDM-team.
 
 Relaunch of [fdm-bayern.org](https://www.fdm-bayern.org) in the context of work for the "[eHumanities-interdisziplinär](https://www.fdm-bayern.org/projekte/ehumanities-interdisziplinaer/)"-project\
-Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsbibliothek, 2022.\
+Friedrich-Alexander-Universität Erlangen-Nürnberg, University Library, 2022.\
 Redesign, restructuring and content addition.
