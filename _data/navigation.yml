@@ -5,12 +5,13 @@ main:
     url: /cv/
   - title: "Activities" 
     url: /activities/
-  - title: "PhD thesis"
-    url: /thesis/
-  - title: "Data set"
-    url: /dataset/
   - title: "Photography"
     url: /photography/
+
+  #- title: "PhD thesis"
+    #url: /thesis/
+  #- title: "Data set"
+    # url: /dataset/
 
 #- title: "Posts"
     #url: /posts/
