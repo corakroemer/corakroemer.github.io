@@ -91,7 +91,7 @@ on invitation from Professor Brigitte Ouvry-Vial, Le Mans University, February 2
 
 ## <font color="#0092ca">Science communication</font>
 
-*Rom ist auch nicht an einem Tag erbaut worden -- Grundlage des Forschungsdatenmanagement*\
+*Rom ist auch nicht an einem Tag erbaut worden -- Grundlagen des Forschungsdatenmanagements*\
 Nacht der Wissenschaft, Karlsruhe Institute of Technology, Karlsruhe, November 2023.\
 With Dr. Michael Anger and Charlotte Neidiger.
 
